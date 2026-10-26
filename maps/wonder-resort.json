@@ -1,0 +1,566 @@
+{
+ "v": 2,
+ "docTitle": "Wonder Resort",
+ "subtitle": "Getting around the parks and resorts",
+ "showTitle": true,
+ "showKey": true,
+ "keyTitle": "Map key",
+ "keyAt": "left",
+ "titleAt": "left",
+ "labelSize": 15,
+ "theme": "white",
+ "features": [
+  {
+   "id": 53,
+   "kind": "land",
+   "name": "Wildwood",
+   "color": null,
+   "points": [
+    {
+     "x": 60,
+     "y": 320
+    },
+    {
+     "x": 340,
+     "y": 300
+    },
+    {
+     "x": 380,
+     "y": 520
+    },
+    {
+     "x": 340,
+     "y": 700
+    },
+    {
+     "x": 80,
+     "y": 680
+    },
+    {
+     "x": 20,
+     "y": 500
+    }
+   ],
+   "smooth": true,
+   "showName": true,
+   "nameAt": {
+    "x": 190,
+    "y": 660
+   }
+  },
+  {
+   "id": 54,
+   "kind": "lake",
+   "name": "Great Lagoon",
+   "color": null,
+   "points": [
+    {
+     "x": 600,
+     "y": 400
+    },
+    {
+     "x": 760,
+     "y": 350
+    },
+    {
+     "x": 960,
+     "y": 390
+    },
+    {
+     "x": 1040,
+     "y": 500
+    },
+    {
+     "x": 960,
+     "y": 610
+    },
+    {
+     "x": 760,
+     "y": 650
+    },
+    {
+     "x": 620,
+     "y": 600
+    },
+    {
+     "x": 560,
+     "y": 500
+    }
+   ],
+   "smooth": true,
+   "showName": true,
+   "nameAt": {
+    "x": 690,
+    "y": 600
+   }
+  },
+  {
+   "id": 55,
+   "kind": "label",
+   "name": "Safari Wilds",
+   "color": "#00782A",
+   "points": [
+    {
+     "x": 200,
+     "y": 290
+    }
+   ],
+   "smooth": true,
+   "showName": true,
+   "boxed": true,
+   "width": 18
+  },
+  {
+   "id": 56,
+   "kind": "note",
+   "name": "The Skyliner runs until midnight.\nBuses stop earlier in the evening.",
+   "color": null,
+   "points": [
+    {
+     "x": 1120,
+     "y": 780
+    }
+   ],
+   "smooth": true,
+   "showName": true,
+   "width": 12
+  }
+ ],
+ "next": 57,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Resort Monorail",
+   "color": "#E32017",
+   "style": "stripe",
+   "icon": "none",
+   "arrows": true,
+   "desc": "Parks and lakeside resorts",
+   "section": "Monorail"
+  },
+  {
+   "id": 2,
+   "name": "Resort Buses",
+   "color": "#00782A",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Between resorts and parks",
+   "section": "Buses"
+  },
+  {
+   "id": 3,
+   "name": "Express Buses",
+   "color": "#9B0056",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Fewer stops, straight to the parks",
+   "section": "Buses"
+  },
+  {
+   "id": 4,
+   "name": "Skyliner",
+   "color": "#00A4A7",
+   "style": "ticks",
+   "icon": "cabin",
+   "desc": "Gondola to Globe Park"
+  },
+  {
+   "id": 5,
+   "name": "Lagoon Ferry",
+   "color": "#0d9bd6",
+   "style": "dashed",
+   "icon": "boat",
+   "desc": "Across the Great Lagoon"
+  },
+  {
+   "id": 6,
+   "name": "Cross-lake Ferry",
+   "color": "#6a2fb5",
+   "style": "dashed",
+   "icon": "boat"
+  },
+  {
+   "id": 7,
+   "name": "Springs Tram",
+   "color": "#EE7C0E",
+   "style": "solid",
+   "icon": "none",
+   "width": 5,
+   "desc": "Gateway to the Springs"
+  },
+  {
+   "id": 8,
+   "name": "Shore Walk",
+   "color": "#7d868c",
+   "style": "dotted",
+   "icon": "none",
+   "width": 3
+  }
+ ],
+ "groups": [
+  {
+   "id": 9,
+   "name": "Lakeside Resorts",
+   "color": "#9ecbff",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "box",
+   "pad": 56
+  },
+  {
+   "id": 10,
+   "name": "Wilderness",
+   "color": "#b6e8b0",
+   "area": true,
+   "showName": false,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  },
+  {
+   "id": 11,
+   "name": "Gateway",
+   "color": "#ffd59e",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "circle",
+   "pad": 60
+  },
+  {
+   "id": 12,
+   "name": "Theme parks",
+   "color": "#f6b0d0",
+   "area": false,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  }
+ ],
+ "stations": [
+  {
+   "id": 13,
+   "name": "Castle Park",
+   "x": 800,
+   "y": 160,
+   "label": "n",
+   "kind": "park",
+   "group": 12,
+   "badge": "🏰"
+  },
+  {
+   "id": 14,
+   "name": "Studio Park",
+   "x": 800,
+   "y": 840,
+   "label": "s",
+   "kind": "park",
+   "group": 12,
+   "badge": "🎬"
+  },
+  {
+   "id": 15,
+   "name": "Globe Park",
+   "x": 1360,
+   "y": 400,
+   "label": "e",
+   "kind": "park",
+   "group": 11,
+   "badge": "🌍"
+  },
+  {
+   "id": 16,
+   "name": "Safari Park",
+   "x": 200,
+   "y": 400,
+   "label": "w",
+   "kind": "park",
+   "group": 10,
+   "badge": "🦁"
+  },
+  {
+   "id": 17,
+   "name": "Grand Lodge",
+   "x": 520,
+   "y": 320,
+   "label": "nw",
+   "kind": "resort",
+   "group": 9
+  },
+  {
+   "id": 18,
+   "name": "Boardwalk Inn",
+   "x": 520,
+   "y": 680,
+   "label": "sw",
+   "kind": "resort",
+   "group": 9
+  },
+  {
+   "id": 19,
+   "name": "Beach Club",
+   "x": 1080,
+   "y": 320,
+   "label": "ne",
+   "kind": "resort",
+   "group": 9
+  },
+  {
+   "id": 20,
+   "name": "Yacht Club",
+   "x": 1080,
+   "y": 680,
+   "label": "se",
+   "kind": "resort",
+   "group": 9
+  },
+  {
+   "id": 21,
+   "name": "Safari Lodge",
+   "x": 200,
+   "y": 560,
+   "label": "w",
+   "kind": "resort",
+   "group": 10
+  },
+  {
+   "id": 22,
+   "name": "Gateway Hotel",
+   "x": 1360,
+   "y": 560,
+   "label": "e",
+   "kind": "resort",
+   "group": 11
+  },
+  {
+   "id": 23,
+   "name": "Springs",
+   "x": 1360,
+   "y": 720,
+   "label": "e",
+   "kind": "landmark",
+   "group": 11,
+   "badge": "🛍"
+  },
+  {
+   "id": 24,
+   "name": "Sky Junction",
+   "x": 1240,
+   "y": 680,
+   "label": "s",
+   "kind": "sky",
+   "group": 11
+  },
+  {
+   "id": 25,
+   "name": "Castle Landing",
+   "x": 800,
+   "y": 360,
+   "label": "e",
+   "kind": "pier",
+   "group": null
+  },
+  {
+   "id": 26,
+   "name": "Central Dock",
+   "x": 800,
+   "y": 500,
+   "label": "e",
+   "kind": "pier",
+   "group": null
+  },
+  {
+   "id": 27,
+   "name": "Studio Landing",
+   "x": 800,
+   "y": 640,
+   "label": "e",
+   "kind": "pier",
+   "group": null
+  },
+  {
+   "id": 28,
+   "name": "Lodge Dock",
+   "x": 600,
+   "y": 500,
+   "label": "n",
+   "kind": "pier",
+   "group": null
+  },
+  {
+   "id": 29,
+   "name": "Beach Dock",
+   "x": 1000,
+   "y": 500,
+   "label": "n",
+   "kind": "pier",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 30,
+   "line": 1,
+   "a": 13,
+   "b": 17,
+   "flip": false
+  },
+  {
+   "id": 31,
+   "line": 1,
+   "a": 17,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 32,
+   "line": 1,
+   "a": 18,
+   "b": 14,
+   "flip": false
+  },
+  {
+   "id": 33,
+   "line": 1,
+   "a": 14,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 34,
+   "line": 1,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 35,
+   "line": 1,
+   "a": 19,
+   "b": 13,
+   "flip": false
+  },
+  {
+   "id": 36,
+   "line": 4,
+   "a": 20,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 37,
+   "line": 4,
+   "a": 24,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 38,
+   "line": 4,
+   "a": 22,
+   "b": 15,
+   "flip": false
+  },
+  {
+   "id": 39,
+   "line": 5,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 40,
+   "line": 5,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 41,
+   "line": 6,
+   "a": 28,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 42,
+   "line": 6,
+   "a": 26,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 43,
+   "line": 2,
+   "a": 16,
+   "b": 21,
+   "flip": false
+  },
+  {
+   "id": 44,
+   "line": 2,
+   "a": 21,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 45,
+   "line": 2,
+   "a": 18,
+   "b": 14,
+   "flip": false
+  },
+  {
+   "id": 46,
+   "line": 3,
+   "a": 21,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 47,
+   "line": 3,
+   "a": 18,
+   "b": 14,
+   "flip": false
+  },
+  {
+   "id": 48,
+   "line": 3,
+   "a": 14,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 49,
+   "line": 7,
+   "a": 23,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 50,
+   "line": 7,
+   "a": 22,
+   "b": 15,
+   "flip": false
+  },
+  {
+   "id": 51,
+   "line": 8,
+   "a": 17,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 52,
+   "line": 8,
+   "a": 19,
+   "b": 25,
+   "flip": false
+  }
+ ]
+}

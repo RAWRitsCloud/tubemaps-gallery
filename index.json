@@ -1,0 +1,12 @@
+{
+ "maps": [
+  {
+   "id": "wonder-resort",
+   "title": "Wonder Resort",
+   "by": "Tube Map Maker",
+   "about": "The built-in example: monorail, sky line, ferries and buses",
+   "file": "maps/wonder-resort.json",
+   "thumb": "maps/wonder-resort.svg"
+  }
+ ]
+}
