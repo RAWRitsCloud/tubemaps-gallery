@@ -4,20 +4,16 @@ A public collection of maps for [Tube Map Maker](https://github.com/rawritscloud
 
 ## Adding a map
 
-1. In Tube Map Maker, open **Settings > Download map file**. You get a `.json` file. Optionally also **Export vector (SVG)** for the thumbnail.
-2. Put the file in `maps/` with a short lowercase name, for example `maps/my-city.json` (and `maps/my-city.svg`).
-3. Add an entry to `index.json`:
+1. In Tube Map Maker, open **Settings > Download map file**. You get a `.json` file.
+2. Put just that file in `maps/`, with a short lowercase name, for example `maps/my-city.json`.
+3. Open a pull request.
 
-   ```json
-   { "id": "my-city", "title": "My City", "by": "Your name", "about": "One line about it", "file": "maps/my-city.json", "thumb": "maps/my-city.svg" }
-   ```
-
-4. Open a pull request. 
+That's it: once it's merged, a GitHub Action (`tools/build-index.js`) generates the thumbnail and adds an `index.json` entry for you, titled and described from the map itself. If you'd like a better title, description or credit than the defaults, edit the `title`, `about` or `by` field in `index.json` afterwards in a normal pull request — the action leaves an existing entry's wording alone and only keeps `file`/`thumb` correct and the thumbnail in sync with the map.
 
 ## Rules
 
-- Only maps you made or have the right to share. Say who made it in `by`.
-- Keep a map under 2 MB. File names use letters, numbers, `-`, `_` and `.` only, and sit inside `maps/`.
+- Only maps you made or have the right to share.
+- Keep a map under 2 MB. File names use letters, numbers, `-` and `_` only, and sit inside `maps/`.
 - No personal information in names or text. Anyone can read and copy what is here.
 - Maps are reviewed before they are added, and may be removed on request.
 
