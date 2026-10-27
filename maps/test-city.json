@@ -1,6 +1,6 @@
 {
  "v": 2,
- "docTitle": "Test City",
+ "docTitle": "Totally Different Title",
  "subtitle": "A smoke test for the auto-index action",
  "next": 10,
  "active": 1,
@@ -18,7 +18,7 @@
  "stations": [
   {
    "id": 2,
-   "name": "A",
+   "name": "Renamed Stop",
    "x": 0,
    "y": 0,
    "label": "e",
