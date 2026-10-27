@@ -1,0 +1,46 @@
+{
+ "v": 2,
+ "docTitle": "Fork Preview Test",
+ "subtitle": "Testing the fork-PR preview comment",
+ "next": 10,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Green",
+   "color": "#00782a",
+   "style": "solid",
+   "icon": "none"
+  }
+ ],
+ "groups": [],
+ "features": [],
+ "stations": [
+  {
+   "id": 2,
+   "name": "X",
+   "x": 0,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 3,
+   "name": "Y",
+   "x": 160,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 4,
+   "line": 1,
+   "a": 2,
+   "b": 3
+  }
+ ]
+}
