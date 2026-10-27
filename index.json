@@ -15,14 +15,6 @@
    "about": "The built-in example: monorail, sky line, ferries and buses",
    "file": "maps/wonder-resort.json",
    "thumb": "maps/wonder-resort.svg"
-  },
-  {
-   "id": "test-city",
-   "title": "Test City",
-   "by": "A Human Editor",
-   "about": "A hand-edited description that must survive content edits",
-   "file": "maps/test-city.json",
-   "thumb": "maps/test-city.svg"
   }
  ]
 }
