@@ -15,6 +15,14 @@
    "about": "The built-in example: monorail, sky line, ferries and buses",
    "file": "maps/wonder-resort.json",
    "thumb": "maps/wonder-resort.svg"
+  },
+  {
+   "id": "test-city",
+   "title": "Test City",
+   "by": "James Murray-Ferris",
+   "about": "A smoke test for the auto-index action",
+   "file": "maps/test-city.json",
+   "thumb": "maps/test-city.svg"
   }
  ]
 }
