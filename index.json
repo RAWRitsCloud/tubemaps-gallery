@@ -15,6 +15,14 @@
    "about": "The built-in example: monorail, sky line, ferries and buses",
    "file": "maps/wonder-resort.json",
    "thumb": "maps/wonder-resort.svg"
+  },
+  {
+   "id": "fork-preview-test",
+   "title": "Fork Preview Test",
+   "by": "James Murray-Ferris",
+   "about": "Testing the fork-PR preview comment",
+   "file": "maps/fork-preview-test.json",
+   "thumb": "maps/fork-preview-test.svg"
   }
  ]
 }
