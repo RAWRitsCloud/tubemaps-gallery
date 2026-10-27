@@ -15,6 +15,14 @@
    "about": "The built-in example: monorail, sky line, ferries and buses",
    "file": "maps/wonder-resort.json",
    "thumb": "maps/wonder-resort.svg"
+  },
+  {
+   "id": "pr-flow-test",
+   "title": "PR Flow Test",
+   "by": "James Murray-Ferris",
+   "about": "Testing generation inside the PR",
+   "file": "maps/pr-flow-test.json",
+   "thumb": "maps/pr-flow-test.svg"
   }
  ]
 }
