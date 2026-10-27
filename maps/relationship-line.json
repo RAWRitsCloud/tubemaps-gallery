@@ -1,0 +1,650 @@
+{
+ "v": 2,
+ "docTitle": "The Relationship Line",
+ "subtitle": "A tongue-in-cheek map of how it all goes. Mind the gap between the dates.",
+ "showTitle": true,
+ "showKey": true,
+ "keyTitle": "Key",
+ "keyAt": "left",
+ "titleAt": "left",
+ "labelSize": 16,
+ "theme": "white",
+ "features": [
+  {
+   "id": 72,
+   "kind": "river",
+   "name": "",
+   "color": null,
+   "points": [
+    {
+     "x": -80,
+     "y": 320
+    },
+    {
+     "x": 120,
+     "y": 320
+    },
+    {
+     "x": 240,
+     "y": 320
+    },
+    {
+     "x": 400,
+     "y": 320
+    },
+    {
+     "x": 560,
+     "y": 320
+    },
+    {
+     "x": 840,
+     "y": 320
+    }
+   ],
+   "smooth": true,
+   "showName": false,
+   "width": 30
+  },
+  {
+   "id": 73,
+   "kind": "label",
+   "name": "River of Awkward Silences",
+   "color": null,
+   "points": [
+    {
+     "x": 700,
+     "y": 320
+    }
+   ],
+   "smooth": true,
+   "showName": true,
+   "width": 18
+  }
+ ],
+ "next": 74,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Main Line",
+   "color": "#e32017",
+   "style": "solid",
+   "icon": "none",
+   "desc": "The classic route, all stops"
+  },
+  {
+   "id": 2,
+   "name": "Family Line",
+   "color": "#00782a",
+   "style": "solid",
+   "icon": "none",
+   "desc": "Terminates at the empty nest"
+  },
+  {
+   "id": 3,
+   "name": "Whirlwind Express",
+   "color": "#f386a1",
+   "style": "ticks",
+   "icon": "cabin",
+   "desc": "Skips several stops. Not for the cautious"
+  },
+  {
+   "id": 4,
+   "name": "In-Laws Link",
+   "color": "#9b0058",
+   "style": "hollow",
+   "icon": "none",
+   "desc": "Seasonal. Heavy on the small talk"
+  },
+  {
+   "id": 5,
+   "name": "Honeymoon Ferry",
+   "color": "#0098d4",
+   "style": "dashed",
+   "icon": "boat",
+   "desc": "Sails once, then back home"
+  },
+  {
+   "id": 6,
+   "name": "Rocky Road",
+   "color": "#555555",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Delays likely. Alternative routes available"
+  },
+  {
+   "id": 7,
+   "name": "Walk of Shame",
+   "color": "#7d868c",
+   "style": "dotted",
+   "icon": "none",
+   "width": 3
+  }
+ ],
+ "groups": [
+  {
+   "id": 68,
+   "name": "Early days",
+   "color": "#ffc0b0",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  },
+  {
+   "id": 69,
+   "name": "Getting serious",
+   "color": "#fff0a0",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  },
+  {
+   "id": 70,
+   "name": "Settling down",
+   "color": "#b6e8b0",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  },
+  {
+   "id": 71,
+   "name": "Family life",
+   "color": "#9ecbff",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  }
+ ],
+ "stations": [
+  {
+   "id": 8,
+   "name": "Matched",
+   "x": 0,
+   "y": 0,
+   "label": "w",
+   "kind": "landmark",
+   "group": 68
+  },
+  {
+   "id": 9,
+   "name": "First message",
+   "x": 80,
+   "y": 0,
+   "label": "n",
+   "kind": "stop",
+   "group": 68
+  },
+  {
+   "id": 10,
+   "name": "First date",
+   "x": 160,
+   "y": 0,
+   "label": "s",
+   "kind": "park",
+   "group": 68
+  },
+  {
+   "id": 11,
+   "name": "Second date",
+   "x": 240,
+   "y": 0,
+   "label": "n",
+   "kind": "stop",
+   "group": 68
+  },
+  {
+   "id": 12,
+   "name": "Meeting the friends",
+   "x": 320,
+   "y": 0,
+   "label": "se",
+   "kind": "stop",
+   "group": 69
+  },
+  {
+   "id": 13,
+   "name": "Going exclusive",
+   "x": 400,
+   "y": 0,
+   "label": "n",
+   "kind": "park",
+   "group": 69
+  },
+  {
+   "id": 14,
+   "name": "Meeting the parents",
+   "x": 480,
+   "y": 80,
+   "label": "se",
+   "kind": "landmark",
+   "group": 69
+  },
+  {
+   "id": 15,
+   "name": "Moving in",
+   "x": 480,
+   "y": 240,
+   "label": "e",
+   "kind": "park",
+   "group": 70
+  },
+  {
+   "id": 16,
+   "name": "Engaged",
+   "x": 480,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": 70
+  },
+  {
+   "id": 17,
+   "name": "Wedding",
+   "x": 480,
+   "y": 560,
+   "label": "ne",
+   "kind": "landmark",
+   "group": 70
+  },
+  {
+   "id": 18,
+   "name": "Getting a dog",
+   "x": 320,
+   "y": 240,
+   "label": "sw",
+   "kind": "stop",
+   "group": 70
+  },
+  {
+   "id": 19,
+   "name": "Buying a house",
+   "x": 320,
+   "y": 400,
+   "label": "ne",
+   "kind": "park",
+   "group": 70
+  },
+  {
+   "id": 20,
+   "name": "First child",
+   "x": 320,
+   "y": 560,
+   "label": "e",
+   "kind": "landmark",
+   "group": 71
+  },
+  {
+   "id": 21,
+   "name": "Second child",
+   "x": 160,
+   "y": 560,
+   "label": "w",
+   "kind": "stop",
+   "group": 71
+  },
+  {
+   "id": 22,
+   "name": "School run",
+   "x": 160,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": 71
+  },
+  {
+   "id": 23,
+   "name": "Empty nest",
+   "x": 0,
+   "y": 400,
+   "label": "w",
+   "kind": "landmark",
+   "group": 71
+  },
+  {
+   "id": 24,
+   "name": "Silver anniversary",
+   "x": 0,
+   "y": 560,
+   "label": "w",
+   "kind": "landmark",
+   "group": 71
+  },
+  {
+   "id": 25,
+   "name": "Texting all night",
+   "x": 80,
+   "y": 80,
+   "label": "w",
+   "kind": "stop",
+   "group": 68
+  },
+  {
+   "id": 26,
+   "name": "Weekend away",
+   "x": 160,
+   "y": 160,
+   "label": "w",
+   "kind": "sky",
+   "group": 68
+  },
+  {
+   "id": 27,
+   "name": "Lockdown together",
+   "x": 400,
+   "y": 160,
+   "label": "e",
+   "kind": "sky",
+   "group": 69
+  },
+  {
+   "id": 28,
+   "name": "Christmas at the in-laws",
+   "x": 640,
+   "y": 80,
+   "label": "ne",
+   "kind": "stop",
+   "group": 69
+  },
+  {
+   "id": 29,
+   "name": "Meeting the grandparents",
+   "x": 640,
+   "y": -80,
+   "label": "e",
+   "kind": "stop",
+   "group": 69
+  },
+  {
+   "id": 30,
+   "name": "Honeymoon",
+   "x": 640,
+   "y": 560,
+   "label": "e",
+   "kind": "pier",
+   "group": 70
+  },
+  {
+   "id": 31,
+   "name": "Back home",
+   "x": 640,
+   "y": 400,
+   "label": "e",
+   "kind": "pier",
+   "group": 70
+  },
+  {
+   "id": 32,
+   "name": "The big fight",
+   "x": 240,
+   "y": 80,
+   "label": "nw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 33,
+   "name": "Sleeping on the sofa",
+   "x": 240,
+   "y": 240,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 34,
+   "name": "Couples therapy",
+   "x": 160,
+   "y": 240,
+   "label": "sw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 35,
+   "name": "Making up",
+   "x": 80,
+   "y": 240,
+   "label": "n",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 36,
+   "name": "Break-up",
+   "x": 320,
+   "y": 80,
+   "label": "s",
+   "kind": "landmark",
+   "group": null
+  },
+  {
+   "id": 37,
+   "name": "Ex alert",
+   "x": 400,
+   "y": 80,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 38,
+   "line": 1,
+   "a": 8,
+   "b": 9,
+   "flip": false
+  },
+  {
+   "id": 39,
+   "line": 1,
+   "a": 9,
+   "b": 10,
+   "flip": false
+  },
+  {
+   "id": 40,
+   "line": 1,
+   "a": 10,
+   "b": 11,
+   "flip": false
+  },
+  {
+   "id": 41,
+   "line": 1,
+   "a": 11,
+   "b": 12,
+   "flip": false
+  },
+  {
+   "id": 42,
+   "line": 1,
+   "a": 12,
+   "b": 13,
+   "flip": false
+  },
+  {
+   "id": 43,
+   "line": 1,
+   "a": 13,
+   "b": 14,
+   "flip": false
+  },
+  {
+   "id": 44,
+   "line": 1,
+   "a": 14,
+   "b": 15,
+   "flip": false
+  },
+  {
+   "id": 45,
+   "line": 1,
+   "a": 15,
+   "b": 16,
+   "flip": false
+  },
+  {
+   "id": 46,
+   "line": 1,
+   "a": 16,
+   "b": 17,
+   "flip": false
+  },
+  {
+   "id": 47,
+   "line": 2,
+   "a": 15,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 48,
+   "line": 2,
+   "a": 18,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 49,
+   "line": 2,
+   "a": 19,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 50,
+   "line": 2,
+   "a": 20,
+   "b": 21,
+   "flip": false
+  },
+  {
+   "id": 51,
+   "line": 2,
+   "a": 21,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 52,
+   "line": 2,
+   "a": 22,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 53,
+   "line": 2,
+   "a": 23,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 54,
+   "line": 3,
+   "a": 9,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 55,
+   "line": 3,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 56,
+   "line": 3,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 57,
+   "line": 3,
+   "a": 27,
+   "b": 15,
+   "flip": false
+  },
+  {
+   "id": 58,
+   "line": 4,
+   "a": 14,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 59,
+   "line": 4,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 60,
+   "line": 5,
+   "a": 17,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 61,
+   "line": 5,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 62,
+   "line": 6,
+   "a": 11,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 63,
+   "line": 6,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 64,
+   "line": 6,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 65,
+   "line": 6,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 66,
+   "line": 6,
+   "a": 32,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 67,
+   "line": 7,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  }
+ ]
+}

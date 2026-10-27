@@ -1,0 +1,914 @@
+{
+ "v": 2,
+ "docTitle": "Vancouver SkyTrain",
+ "subtitle": "Unofficial schematic of Vancouver SkyTrain. Data © OpenStreetMap contributors (ODbL).",
+ "showTitle": true,
+ "showKey": true,
+ "keyTitle": "Key",
+ "keyAt": "left",
+ "titleAt": "left",
+ "labelSize": 16,
+ "theme": "white",
+ "features": [],
+ "next": 113,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Canada Line",
+   "color": "#009ac8",
+   "style": "solid",
+   "icon": "none"
+  },
+  {
+   "id": 2,
+   "name": "Expo Line",
+   "color": "#0060a9",
+   "style": "solid",
+   "icon": "none"
+  },
+  {
+   "id": 3,
+   "name": "Millennium Line",
+   "color": "#ffd520",
+   "style": "solid",
+   "icon": "none"
+  }
+ ],
+ "groups": [],
+ "stations": [
+  {
+   "id": 4,
+   "name": "Richmond–Brighouse",
+   "x": -1160,
+   "y": 920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 5,
+   "name": "Lansdowne",
+   "x": -1160,
+   "y": 800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 6,
+   "name": "Aberdeen",
+   "x": -1160,
+   "y": 720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 7,
+   "name": "Capstan",
+   "x": -1160,
+   "y": 640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 8,
+   "name": "Bridgeport",
+   "x": -1160,
+   "y": 520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 9,
+   "name": "Marine Drive",
+   "x": -1160,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 10,
+   "name": "Langara-49th Avenue",
+   "x": -1160,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 11,
+   "name": "Oakridge-41st Avenue",
+   "x": -1160,
+   "y": 80,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 12,
+   "name": "King Edward",
+   "x": -1120,
+   "y": -120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 13,
+   "name": "Broadway-City Hall",
+   "x": -1120,
+   "y": -280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 14,
+   "name": "Olympic Village",
+   "x": -1120,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 15,
+   "name": "Yaletown-Roundhouse",
+   "x": -1120,
+   "y": -520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 16,
+   "name": "Vancouver City Centre",
+   "x": -1120,
+   "y": -680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 17,
+   "name": "Waterfront",
+   "x": -1120,
+   "y": -800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 18,
+   "name": "Templeton",
+   "x": -1240,
+   "y": 600,
+   "label": "s",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 19,
+   "name": "Sea Island Centre",
+   "x": -1320,
+   "y": 600,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 20,
+   "name": "YVR–Airport",
+   "x": -1440,
+   "y": 600,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 21,
+   "name": "King George",
+   "x": 1360,
+   "y": 640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 22,
+   "name": "Surrey Central",
+   "x": 1280,
+   "y": 640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 23,
+   "name": "Gateway",
+   "x": 1200,
+   "y": 560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 24,
+   "name": "Scott Road",
+   "x": 1120,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 25,
+   "name": "Columbia",
+   "x": 1040,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 26,
+   "name": "New Westminster",
+   "x": 840,
+   "y": 400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 27,
+   "name": "22nd Street",
+   "x": 640,
+   "y": 400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 28,
+   "name": "Edmonds",
+   "x": 480,
+   "y": 400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 29,
+   "name": "Royal Oak",
+   "x": 280,
+   "y": 400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 30,
+   "name": "Metrotown",
+   "x": 80,
+   "y": 400,
+   "label": "s",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 31,
+   "name": "Patterson",
+   "x": -40,
+   "y": 280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 32,
+   "name": "Joyce–Collingwood",
+   "x": -200,
+   "y": 120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 33,
+   "name": "29th Avenue",
+   "x": -360,
+   "y": -40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 34,
+   "name": "Nanaimo",
+   "x": -520,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 35,
+   "name": "Commercial–Broadway",
+   "x": -680,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 36,
+   "name": "Main Street–Science World",
+   "x": -800,
+   "y": -480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 37,
+   "name": "Stadium–Chinatown",
+   "x": -880,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 38,
+   "name": "Granville",
+   "x": -960,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 39,
+   "name": "Burrard",
+   "x": -1040,
+   "y": -720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 40,
+   "name": "Production Way–University",
+   "x": 1040,
+   "y": -200,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 41,
+   "name": "Lougheed Town Centre",
+   "x": 1200,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 42,
+   "name": "Braid",
+   "x": 1200,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 43,
+   "name": "Sapperton",
+   "x": 1200,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 44,
+   "name": "Lafarge Lake–Douglas",
+   "x": 1600,
+   "y": -440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 45,
+   "name": "Lincoln",
+   "x": 1520,
+   "y": -440,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 46,
+   "name": "Coquitlam Central",
+   "x": 1440,
+   "y": -440,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 47,
+   "name": "Inlet Centre",
+   "x": 1400,
+   "y": -400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 48,
+   "name": "Moody Centre",
+   "x": 1360,
+   "y": -360,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 49,
+   "name": "Burquitlam",
+   "x": 1280,
+   "y": -280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 50,
+   "name": "Lake City Way",
+   "x": 880,
+   "y": -200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 51,
+   "name": "Sperling–Burnaby Lake",
+   "x": 680,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 52,
+   "name": "Holdom",
+   "x": 440,
+   "y": -400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 53,
+   "name": "Brentwood Town Centre",
+   "x": 200,
+   "y": -400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 54,
+   "name": "Gilmore",
+   "x": 0,
+   "y": -400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 55,
+   "name": "Rupert",
+   "x": -240,
+   "y": -400,
+   "label": "n",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 56,
+   "name": "Renfrew",
+   "x": -440,
+   "y": -400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 57,
+   "name": "VCC–Clark",
+   "x": -760,
+   "y": -360,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 58,
+   "line": 1,
+   "a": 4,
+   "b": 5,
+   "flip": false
+  },
+  {
+   "id": 59,
+   "line": 1,
+   "a": 5,
+   "b": 6,
+   "flip": false
+  },
+  {
+   "id": 60,
+   "line": 1,
+   "a": 6,
+   "b": 7,
+   "flip": false
+  },
+  {
+   "id": 61,
+   "line": 1,
+   "a": 7,
+   "b": 8,
+   "flip": false
+  },
+  {
+   "id": 62,
+   "line": 1,
+   "a": 8,
+   "b": 9,
+   "flip": false
+  },
+  {
+   "id": 63,
+   "line": 1,
+   "a": 9,
+   "b": 10,
+   "flip": false
+  },
+  {
+   "id": 64,
+   "line": 1,
+   "a": 10,
+   "b": 11,
+   "flip": false
+  },
+  {
+   "id": 65,
+   "line": 1,
+   "a": 11,
+   "b": 12,
+   "flip": false
+  },
+  {
+   "id": 66,
+   "line": 1,
+   "a": 12,
+   "b": 13,
+   "flip": false
+  },
+  {
+   "id": 67,
+   "line": 1,
+   "a": 13,
+   "b": 14,
+   "flip": false
+  },
+  {
+   "id": 68,
+   "line": 1,
+   "a": 14,
+   "b": 15,
+   "flip": false
+  },
+  {
+   "id": 69,
+   "line": 1,
+   "a": 15,
+   "b": 16,
+   "flip": false
+  },
+  {
+   "id": 70,
+   "line": 1,
+   "a": 16,
+   "b": 17,
+   "flip": false
+  },
+  {
+   "id": 71,
+   "line": 1,
+   "a": 8,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 72,
+   "line": 1,
+   "a": 18,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 73,
+   "line": 1,
+   "a": 19,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 74,
+   "line": 2,
+   "a": 21,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 75,
+   "line": 2,
+   "a": 22,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 76,
+   "line": 2,
+   "a": 23,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 77,
+   "line": 2,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 78,
+   "line": 2,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 79,
+   "line": 2,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 80,
+   "line": 2,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 81,
+   "line": 2,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 82,
+   "line": 2,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 83,
+   "line": 2,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 84,
+   "line": 2,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 85,
+   "line": 2,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 86,
+   "line": 2,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 87,
+   "line": 2,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 88,
+   "line": 2,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 89,
+   "line": 2,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 90,
+   "line": 2,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 91,
+   "line": 2,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 92,
+   "line": 2,
+   "a": 39,
+   "b": 17,
+   "flip": false
+  },
+  {
+   "id": 93,
+   "line": 2,
+   "a": 40,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 94,
+   "line": 2,
+   "a": 41,
+   "b": 42,
+   "flip": false
+  },
+  {
+   "id": 95,
+   "line": 2,
+   "a": 42,
+   "b": 43,
+   "flip": false
+  },
+  {
+   "id": 96,
+   "line": 2,
+   "a": 43,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 97,
+   "line": 3,
+   "a": 44,
+   "b": 45,
+   "flip": false
+  },
+  {
+   "id": 98,
+   "line": 3,
+   "a": 45,
+   "b": 46,
+   "flip": false
+  },
+  {
+   "id": 99,
+   "line": 3,
+   "a": 46,
+   "b": 47,
+   "flip": false
+  },
+  {
+   "id": 100,
+   "line": 3,
+   "a": 47,
+   "b": 48,
+   "flip": false
+  },
+  {
+   "id": 101,
+   "line": 3,
+   "a": 48,
+   "b": 49,
+   "flip": false
+  },
+  {
+   "id": 102,
+   "line": 3,
+   "a": 49,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 103,
+   "line": 3,
+   "a": 41,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 104,
+   "line": 3,
+   "a": 40,
+   "b": 50,
+   "flip": false
+  },
+  {
+   "id": 105,
+   "line": 3,
+   "a": 50,
+   "b": 51,
+   "flip": false
+  },
+  {
+   "id": 106,
+   "line": 3,
+   "a": 51,
+   "b": 52,
+   "flip": false
+  },
+  {
+   "id": 107,
+   "line": 3,
+   "a": 52,
+   "b": 53,
+   "flip": false
+  },
+  {
+   "id": 108,
+   "line": 3,
+   "a": 53,
+   "b": 54,
+   "flip": false
+  },
+  {
+   "id": 109,
+   "line": 3,
+   "a": 54,
+   "b": 55,
+   "flip": false
+  },
+  {
+   "id": 110,
+   "line": 3,
+   "a": 55,
+   "b": 56,
+   "flip": false
+  },
+  {
+   "id": 111,
+   "line": 3,
+   "a": 56,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 112,
+   "line": 3,
+   "a": 35,
+   "b": 57,
+   "flip": false
+  }
+ ]
+}

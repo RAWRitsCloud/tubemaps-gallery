@@ -15,6 +15,38 @@
    "about": "The built-in example: monorail, sky line, ferries and buses",
    "file": "maps/wonder-resort.json",
    "thumb": "maps/wonder-resort.svg"
+  },
+  {
+   "id": "relationship-line",
+   "title": "The Relationship Line",
+   "by": "Tube Map Maker",
+   "about": "A tongue-in-cheek relationship as a transit network: dates, meeting the parents, moving in, kids, and the Rocky Road.",
+   "file": "maps/relationship-line.json",
+   "thumb": "maps/relationship-line.svg"
+  },
+  {
+   "id": "walt-disney-world",
+   "title": "Walt Disney World Resort: getting around",
+   "by": "Tube Map Maker, from OpenStreetMap",
+   "about": "The three monorails, Skyliner, railroads and boats, plus a simplified resort bus ring with a spur to every park. Unofficial.",
+   "file": "maps/walt-disney-world.json",
+   "thumb": "maps/walt-disney-world.svg"
+  },
+  {
+   "id": "vancouver-skytrain",
+   "title": "Vancouver SkyTrain",
+   "by": "Tube Map Maker, from OpenStreetMap",
+   "about": "Expo, Millennium and Canada lines, laid out from real positions. Unofficial.",
+   "file": "maps/vancouver-skytrain.json",
+   "thumb": "maps/vancouver-skytrain.svg"
+  },
+  {
+   "id": "washington-metro",
+   "title": "Washington Metro",
+   "by": "Tube Map Maker, from OpenStreetMap",
+   "about": "92 stations on 6 lines, laid out from real positions. Unofficial.",
+   "file": "maps/washington-metro.json",
+   "thumb": "maps/washington-metro.svg"
   }
  ]
 }

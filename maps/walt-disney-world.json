@@ -1,0 +1,1373 @@
+{
+ "v": 2,
+ "docTitle": "Walt Disney World Resort: getting around",
+ "subtitle": "Unofficial schematic. Rail, Skyliner and boat links from OpenStreetMap (ODbL). Bus service is simplified: every resort on the ring road, a spur to each park. Check Disney for real routes.",
+ "showTitle": true,
+ "showKey": true,
+ "keyTitle": "Key",
+ "keyAt": "left",
+ "titleAt": "left",
+ "labelSize": 16,
+ "theme": "white",
+ "features": [],
+ "next": 181,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Express Monorail",
+   "color": "#8b8f94",
+   "style": "stripe",
+   "icon": "none",
+   "desc": "Transportation and Ticket Center to Magic Kingdom"
+  },
+  {
+   "id": 2,
+   "name": "Resort Monorail",
+   "color": "#f4a300",
+   "style": "stripe",
+   "icon": "none",
+   "desc": "Magic Kingdom, Contemporary, TTC, Polynesian and Grand Floridian"
+  },
+  {
+   "id": 3,
+   "name": "EPCOT Monorail",
+   "color": "#d6409f",
+   "style": "stripe",
+   "icon": "none",
+   "desc": "Transportation and Ticket Center to EPCOT"
+  },
+  {
+   "id": 4,
+   "name": "Magic Kingdom Buses",
+   "color": "#e63946",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Between resorts and the park"
+  },
+  {
+   "id": 5,
+   "name": "EPCOT Buses",
+   "color": "#2d9cdb",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Between resorts and the park"
+  },
+  {
+   "id": 6,
+   "name": "Hollywood Studios Buses",
+   "color": "#111111",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Between resorts and the park"
+  },
+  {
+   "id": 7,
+   "name": "Animal Kingdom and Blizzard Beach Buses",
+   "color": "#0b8f3a",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Between resorts and parks"
+  },
+  {
+   "id": 8,
+   "name": "Downtown Disney and Typhoon Lagoon Buses",
+   "color": "#f2b705",
+   "style": "dotted",
+   "icon": "none",
+   "desc": "Resorts to Typhoon Lagoon and Downtown Disney"
+  },
+  {
+   "id": 9,
+   "name": "Walt Disney World Railroad",
+   "color": "#6b4f2a",
+   "style": "hollow",
+   "icon": "none",
+   "desc": "Around Magic Kingdom"
+  },
+  {
+   "id": 10,
+   "name": "Wildlife Express Train",
+   "color": "#2e7d32",
+   "style": "hollow",
+   "icon": "none",
+   "desc": "Animal Kingdom"
+  },
+  {
+   "id": 11,
+   "name": "Skyliner: Hollywood Studios",
+   "color": "#00a3a3",
+   "style": "ticks",
+   "icon": "cabin",
+   "desc": "Pop Century and Art of Animation, Caribbean Beach, Hollywood Studios"
+  },
+  {
+   "id": 12,
+   "name": "Skyliner: EPCOT",
+   "color": "#7b5ea7",
+   "style": "ticks",
+   "icon": "cabin",
+   "desc": "Caribbean Beach, Riviera, EPCOT International Gateway"
+  },
+  {
+   "id": 13,
+   "name": "Boats: EPCOT and BoardWalk",
+   "color": "#3a86ff",
+   "style": "dashed",
+   "icon": "boat"
+  },
+  {
+   "id": 14,
+   "name": "Boats: Hollywood Studios",
+   "color": "#0096c7",
+   "style": "dashed",
+   "icon": "boat"
+  },
+  {
+   "id": 15,
+   "name": "Ferryboat",
+   "color": "#5e60ce",
+   "style": "dashed",
+   "icon": "boat",
+   "desc": "Transportation and Ticket Center to Magic Kingdom"
+  },
+  {
+   "id": 16,
+   "name": "Walk to Main Street",
+   "color": "#7d868c",
+   "style": "dotted",
+   "icon": "none",
+   "width": 3
+  }
+ ],
+ "groups": [
+  {
+   "id": 179,
+   "name": "Magic Kingdom Park",
+   "color": "#ffd59e",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  },
+  {
+   "id": 180,
+   "name": "Animal Kingdom",
+   "color": "#b6e8b0",
+   "area": true,
+   "showName": true,
+   "collapsed": false,
+   "shape": "blob",
+   "pad": 42
+  }
+ ],
+ "stations": [
+  {
+   "id": 17,
+   "name": "Transportation and Ticket Center",
+   "x": 320,
+   "y": -160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 18,
+   "name": "Magic Kingdom",
+   "x": 160,
+   "y": -320,
+   "label": "w",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 19,
+   "name": "Polynesian Village Resort",
+   "x": 320,
+   "y": 0,
+   "label": "s",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 20,
+   "name": "Grand Floridian Resort",
+   "x": 160,
+   "y": 0,
+   "label": "nw",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 21,
+   "name": "Contemporary Resort",
+   "x": 480,
+   "y": -320,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 22,
+   "name": "EPCOT",
+   "x": 640,
+   "y": -160,
+   "label": "e",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 23,
+   "name": "Shades of Green",
+   "x": 0,
+   "y": 0,
+   "label": "w",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 24,
+   "name": "Wilderness Lodge",
+   "x": 480,
+   "y": 0,
+   "label": "n",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 25,
+   "name": "Fort Wilderness",
+   "x": 640,
+   "y": 0,
+   "label": "s",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 26,
+   "name": "Port Orleans Riverside",
+   "x": 960,
+   "y": 0,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 27,
+   "name": "Port Orleans French Quarter",
+   "x": 960,
+   "y": 160,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 28,
+   "name": "Old Key West Resort",
+   "x": 960,
+   "y": 320,
+   "label": "w",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 29,
+   "name": "Saratoga Springs Resort",
+   "x": 960,
+   "y": 480,
+   "label": "w",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 30,
+   "name": "Animal Kingdom Lodge",
+   "x": 960,
+   "y": 800,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 31,
+   "name": "All-Star Movies",
+   "x": 800,
+   "y": 800,
+   "label": "n",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 32,
+   "name": "All-Star Music",
+   "x": 640,
+   "y": 800,
+   "label": "nw",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 33,
+   "name": "All-Star Sports",
+   "x": 480,
+   "y": 800,
+   "label": "s",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 34,
+   "name": "Coronado Springs Resort",
+   "x": 320,
+   "y": 800,
+   "label": "sw",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 35,
+   "name": "Art of Animation and Pop Century",
+   "x": 160,
+   "y": 800,
+   "label": "n",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 36,
+   "name": "Caribbean Beach Resort",
+   "x": 0,
+   "y": 800,
+   "label": "w",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 37,
+   "name": "Riviera Resort",
+   "x": 0,
+   "y": 640,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 38,
+   "name": "Swan and Dolphin",
+   "x": 0,
+   "y": 480,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 39,
+   "name": "BoardWalk",
+   "x": 0,
+   "y": 320,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 40,
+   "name": "Yacht and Beach Club",
+   "x": 0,
+   "y": 160,
+   "label": "e",
+   "kind": "resort",
+   "group": null
+  },
+  {
+   "id": 41,
+   "name": "Hollywood Studios",
+   "x": -160,
+   "y": 640,
+   "label": "w",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 42,
+   "name": "Animal Kingdom",
+   "x": 960,
+   "y": 1120,
+   "label": "e",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 43,
+   "name": "Blizzard Beach",
+   "x": 640,
+   "y": 960,
+   "label": "e",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 44,
+   "name": "Typhoon Lagoon",
+   "x": 1280,
+   "y": 320,
+   "label": "e",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 45,
+   "name": "Disney Springs",
+   "x": 1280,
+   "y": 480,
+   "label": "e",
+   "kind": "park",
+   "group": null
+  },
+  {
+   "id": 46,
+   "name": "Main Street, U.S.A.",
+   "x": 160,
+   "y": -480,
+   "label": "e",
+   "kind": "landmark",
+   "group": 179
+  },
+  {
+   "id": 47,
+   "name": "Frontierland",
+   "x": 0,
+   "y": -640,
+   "label": "w",
+   "kind": "landmark",
+   "group": 179
+  },
+  {
+   "id": 48,
+   "name": "Fantasyland",
+   "x": 320,
+   "y": -640,
+   "label": "e",
+   "kind": "landmark",
+   "group": 179
+  },
+  {
+   "id": 49,
+   "name": "Harambe Station",
+   "x": 1280,
+   "y": 1120,
+   "label": "e",
+   "kind": "landmark",
+   "group": 180
+  },
+  {
+   "id": 50,
+   "name": "Conservation Station",
+   "x": 1280,
+   "y": 960,
+   "label": "e",
+   "kind": "landmark",
+   "group": 180
+  },
+  {
+   "id": 51,
+   "name": "EPCOT International Gateway",
+   "x": -320,
+   "y": 320,
+   "label": "w",
+   "kind": "park",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 52,
+   "line": 1,
+   "a": 17,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 53,
+   "line": 2,
+   "a": 17,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 54,
+   "line": 2,
+   "a": 19,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 55,
+   "line": 2,
+   "a": 20,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 56,
+   "line": 2,
+   "a": 18,
+   "b": 21,
+   "flip": false
+  },
+  {
+   "id": 57,
+   "line": 3,
+   "a": 17,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 58,
+   "line": 4,
+   "a": 23,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 59,
+   "line": 4,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 60,
+   "line": 4,
+   "a": 19,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 61,
+   "line": 4,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 62,
+   "line": 4,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 63,
+   "line": 4,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 64,
+   "line": 4,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 65,
+   "line": 4,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 66,
+   "line": 4,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 67,
+   "line": 4,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 68,
+   "line": 4,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 69,
+   "line": 4,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 70,
+   "line": 4,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 71,
+   "line": 4,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 72,
+   "line": 4,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 73,
+   "line": 4,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 74,
+   "line": 4,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 75,
+   "line": 4,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 76,
+   "line": 4,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 77,
+   "line": 4,
+   "a": 40,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 78,
+   "line": 4,
+   "a": 20,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 79,
+   "line": 5,
+   "a": 23,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 80,
+   "line": 5,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 81,
+   "line": 5,
+   "a": 19,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 82,
+   "line": 5,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 83,
+   "line": 5,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 84,
+   "line": 5,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 85,
+   "line": 5,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 86,
+   "line": 5,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 87,
+   "line": 5,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 88,
+   "line": 5,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 89,
+   "line": 5,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 90,
+   "line": 5,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 91,
+   "line": 5,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 92,
+   "line": 5,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 93,
+   "line": 5,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 94,
+   "line": 5,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 95,
+   "line": 5,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 96,
+   "line": 5,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 97,
+   "line": 5,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 98,
+   "line": 5,
+   "a": 40,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 99,
+   "line": 5,
+   "a": 24,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 100,
+   "line": 6,
+   "a": 23,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 101,
+   "line": 6,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 102,
+   "line": 6,
+   "a": 19,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 103,
+   "line": 6,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 104,
+   "line": 6,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 105,
+   "line": 6,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 106,
+   "line": 6,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 107,
+   "line": 6,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 108,
+   "line": 6,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 109,
+   "line": 6,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 110,
+   "line": 6,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 111,
+   "line": 6,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 112,
+   "line": 6,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 113,
+   "line": 6,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 114,
+   "line": 6,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 115,
+   "line": 6,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 116,
+   "line": 6,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 117,
+   "line": 6,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 118,
+   "line": 6,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 119,
+   "line": 6,
+   "a": 40,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 120,
+   "line": 6,
+   "a": 36,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 121,
+   "line": 7,
+   "a": 23,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 122,
+   "line": 7,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 123,
+   "line": 7,
+   "a": 19,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 124,
+   "line": 7,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 125,
+   "line": 7,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 126,
+   "line": 7,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 127,
+   "line": 7,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 128,
+   "line": 7,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 129,
+   "line": 7,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 130,
+   "line": 7,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 131,
+   "line": 7,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 132,
+   "line": 7,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 133,
+   "line": 7,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 134,
+   "line": 7,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 135,
+   "line": 7,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 136,
+   "line": 7,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 137,
+   "line": 7,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 138,
+   "line": 7,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 139,
+   "line": 7,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 140,
+   "line": 7,
+   "a": 40,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 141,
+   "line": 7,
+   "a": 30,
+   "b": 42,
+   "flip": false
+  },
+  {
+   "id": 142,
+   "line": 7,
+   "a": 32,
+   "b": 43,
+   "flip": false
+  },
+  {
+   "id": 143,
+   "line": 8,
+   "a": 23,
+   "b": 20,
+   "flip": false
+  },
+  {
+   "id": 144,
+   "line": 8,
+   "a": 20,
+   "b": 19,
+   "flip": false
+  },
+  {
+   "id": 145,
+   "line": 8,
+   "a": 19,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 146,
+   "line": 8,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 147,
+   "line": 8,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 148,
+   "line": 8,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 149,
+   "line": 8,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 150,
+   "line": 8,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 151,
+   "line": 8,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 152,
+   "line": 8,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 153,
+   "line": 8,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 154,
+   "line": 8,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 155,
+   "line": 8,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 156,
+   "line": 8,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 157,
+   "line": 8,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 158,
+   "line": 8,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 159,
+   "line": 8,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 160,
+   "line": 8,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 161,
+   "line": 8,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 162,
+   "line": 8,
+   "a": 40,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 163,
+   "line": 8,
+   "a": 28,
+   "b": 44,
+   "flip": false
+  },
+  {
+   "id": 164,
+   "line": 8,
+   "a": 29,
+   "b": 45,
+   "flip": false
+  },
+  {
+   "id": 165,
+   "line": 9,
+   "a": 46,
+   "b": 47,
+   "flip": false
+  },
+  {
+   "id": 166,
+   "line": 9,
+   "a": 47,
+   "b": 48,
+   "flip": false
+  },
+  {
+   "id": 167,
+   "line": 9,
+   "a": 48,
+   "b": 46,
+   "flip": false
+  },
+  {
+   "id": 168,
+   "line": 10,
+   "a": 49,
+   "b": 50,
+   "flip": false
+  },
+  {
+   "id": 169,
+   "line": 11,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 170,
+   "line": 11,
+   "a": 36,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 171,
+   "line": 12,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 172,
+   "line": 12,
+   "a": 37,
+   "b": 51,
+   "flip": false
+  },
+  {
+   "id": 173,
+   "line": 13,
+   "a": 51,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 174,
+   "line": 13,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 175,
+   "line": 14,
+   "a": 41,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 176,
+   "line": 14,
+   "a": 38,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 177,
+   "line": 15,
+   "a": 17,
+   "b": 18,
+   "flip": false
+  },
+  {
+   "id": 178,
+   "line": 16,
+   "a": 18,
+   "b": 46,
+   "flip": false
+  }
+ ]
+}
