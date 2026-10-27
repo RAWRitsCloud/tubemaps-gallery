@@ -38,5 +38,5 @@ manifest.removed.forEach(function (id) { lines.push('Removes **' + id + '** from
 lines.push('This preview updates itself if you push more changes to this PR. The real thumbnail and index entry are only generated once this is merged.');
 lines.push(MARKER);
 
-gh(['api', 'repos/' + repo + '/issues/' + pr + '/comments', '-f', 'body=@-'], lines.join('\n'));
+gh(['api', 'repos/' + repo + '/issues/' + pr + '/comments', '-F', 'body=@-'], lines.join('\n'));
 console.log('commented on #' + pr);
