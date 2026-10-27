@@ -1,6 +1,14 @@
 {
  "maps": [
   {
+   "id": "london",
+   "title": "London: Underground, Elizabeth line, DLR, Overground, Trams",
+   "by": "Tube Map Maker, from TfL Open Data",
+   "about": "457 stations on 20 lines, laid out from real station positions. Unofficial; powered by TfL Open Data.",
+   "file": "maps/london.json",
+   "thumb": "maps/london.svg"
+  },
+  {
    "id": "wonder-resort",
    "title": "Wonder Resort",
    "by": "Tube Map Maker",

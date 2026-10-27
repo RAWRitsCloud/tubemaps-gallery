@@ -1,0 +1,8615 @@
+{
+ "v": 2,
+ "docTitle": "London",
+ "subtitle": "Unofficial schematic. Powered by TfL Open Data",
+ "showTitle": true,
+ "showKey": true,
+ "keyTitle": "Key",
+ "keyAt": "left",
+ "titleAt": "left",
+ "labelSize": 16,
+ "theme": "white",
+ "features": [],
+ "next": 1095,
+ "active": 1,
+ "lines": [
+  {
+   "id": 1,
+   "name": "Bakerloo",
+   "color": "#B36305",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 2,
+   "name": "Central",
+   "color": "#E32017",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 3,
+   "name": "Circle",
+   "color": "#FFD300",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 4,
+   "name": "District",
+   "color": "#00782A",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 5,
+   "name": "Hammersmith & City",
+   "color": "#F3A9BB",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 6,
+   "name": "Jubilee",
+   "color": "#A0A5A9",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 7,
+   "name": "Metropolitan",
+   "color": "#9B0056",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 8,
+   "name": "Northern",
+   "color": "#000000",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 9,
+   "name": "Piccadilly",
+   "color": "#003688",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 10,
+   "name": "Victoria",
+   "color": "#0098D4",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 11,
+   "name": "Waterloo & City",
+   "color": "#95CDBA",
+   "style": "solid",
+   "icon": "none",
+   "section": "Underground"
+  },
+  {
+   "id": 12,
+   "name": "Elizabeth line",
+   "color": "#6950A1",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Elizabeth line"
+  },
+  {
+   "id": 13,
+   "name": "DLR",
+   "color": "#00A4A7",
+   "style": "solid",
+   "icon": "none",
+   "section": "Docklands Light Railway"
+  },
+  {
+   "id": 14,
+   "name": "Liberty",
+   "color": "#5D6061",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 15,
+   "name": "Lioness",
+   "color": "#FAA61A",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 16,
+   "name": "Mildmay",
+   "color": "#006FE6",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 17,
+   "name": "Suffragette",
+   "color": "#5BBD72",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 18,
+   "name": "Weaver",
+   "color": "#9B0069",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 19,
+   "name": "Windrush",
+   "color": "#D22030",
+   "style": "hollow",
+   "icon": "none",
+   "section": "Overground"
+  },
+  {
+   "id": 20,
+   "name": "London Trams",
+   "color": "#84B817",
+   "style": "solid",
+   "icon": "none",
+   "width": 5,
+   "section": "Tram"
+  }
+ ],
+ "groups": [],
+ "stations": [
+  {
+   "id": 21,
+   "name": "Elephant & Castle",
+   "x": 680,
+   "y": 800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 22,
+   "name": "Lambeth North",
+   "x": 520,
+   "y": 760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 23,
+   "name": "Waterloo",
+   "x": 520,
+   "y": 680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 24,
+   "name": "Embankment",
+   "x": 440,
+   "y": 640,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 25,
+   "name": "Charing Cross",
+   "x": 320,
+   "y": 640,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 26,
+   "name": "Piccadilly Circus",
+   "x": 200,
+   "y": 640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 27,
+   "name": "Oxford Circus",
+   "x": -40,
+   "y": 520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 28,
+   "name": "Regent's Park",
+   "x": -360,
+   "y": 40,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 29,
+   "name": "Baker Street",
+   "x": -560,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 30,
+   "name": "Marylebone",
+   "x": -640,
+   "y": 80,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 31,
+   "name": "Edgware Road (Bakerloo)",
+   "x": -720,
+   "y": 120,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 32,
+   "name": "Paddington",
+   "x": -800,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 33,
+   "name": "Warwick Avenue",
+   "x": -880,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 34,
+   "name": "Maida Vale",
+   "x": -880,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 35,
+   "name": "Kilburn Park",
+   "x": -960,
+   "y": -320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 36,
+   "name": "Queen's Park",
+   "x": -1040,
+   "y": -280,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 37,
+   "name": "Kensal Green",
+   "x": -1200,
+   "y": -160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 38,
+   "name": "Willesden Junction",
+   "x": -1280,
+   "y": -160,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 39,
+   "name": "Harlesden",
+   "x": -1360,
+   "y": -240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 40,
+   "name": "Stonebridge Park",
+   "x": -1440,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 41,
+   "name": "Wembley Central",
+   "x": -1520,
+   "y": -440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 42,
+   "name": "North Wembley",
+   "x": -1520,
+   "y": -600,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 43,
+   "name": "South Kenton",
+   "x": -1520,
+   "y": -680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 44,
+   "name": "Kenton",
+   "x": -1560,
+   "y": -800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 45,
+   "name": "Harrow & Wealdstone",
+   "x": -1600,
+   "y": -920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 46,
+   "name": "Ealing Broadway",
+   "x": -1600,
+   "y": 120,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 47,
+   "name": "West Acton",
+   "x": -1480,
+   "y": 80,
+   "label": "nw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 48,
+   "name": "North Acton",
+   "x": -1400,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 49,
+   "name": "East Acton",
+   "x": -1320,
+   "y": 160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 50,
+   "name": "White City",
+   "x": -1160,
+   "y": 280,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 51,
+   "name": "Shepherd's Bush (Central)",
+   "x": -1120,
+   "y": 440,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 52,
+   "name": "Holland Park",
+   "x": -1000,
+   "y": 400,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 53,
+   "name": "Notting Hill Gate",
+   "x": -960,
+   "y": 400,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 54,
+   "name": "Queensway",
+   "x": -880,
+   "y": 400,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 55,
+   "name": "Lancaster Gate",
+   "x": -760,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 56,
+   "name": "Marble Arch",
+   "x": -520,
+   "y": 440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 57,
+   "name": "Bond Street",
+   "x": -320,
+   "y": 520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 58,
+   "name": "Tottenham Court Road",
+   "x": 360,
+   "y": 440,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 59,
+   "name": "Holborn",
+   "x": 600,
+   "y": 280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 60,
+   "name": "Chancery Lane",
+   "x": 720,
+   "y": 200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 61,
+   "name": "St. Paul's",
+   "x": 840,
+   "y": 280,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 62,
+   "name": "Bank",
+   "x": 920,
+   "y": 320,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 63,
+   "name": "Liverpool Street",
+   "x": 1000,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 64,
+   "name": "Bethnal Green",
+   "x": 1200,
+   "y": -80,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 65,
+   "name": "Mile End",
+   "x": 1320,
+   "y": -40,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 66,
+   "name": "Stratford",
+   "x": 1440,
+   "y": -320,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 67,
+   "name": "Leyton",
+   "x": 1400,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 68,
+   "name": "Leytonstone",
+   "x": 1440,
+   "y": -680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 69,
+   "name": "Snaresbrook",
+   "x": 1480,
+   "y": -840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 70,
+   "name": "South Woodford",
+   "x": 1480,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 71,
+   "name": "Woodford",
+   "x": 1440,
+   "y": -1120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 72,
+   "name": "Buckhurst Hill",
+   "x": 1440,
+   "y": -1280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 73,
+   "name": "Loughton",
+   "x": 1440,
+   "y": -1400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 74,
+   "name": "Debden",
+   "x": 1560,
+   "y": -1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 75,
+   "name": "Theydon Bois",
+   "x": 1600,
+   "y": -1560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 76,
+   "name": "Epping",
+   "x": 1560,
+   "y": -1680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 77,
+   "name": "Wanstead",
+   "x": 1520,
+   "y": -760,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 78,
+   "name": "Redbridge",
+   "x": 1600,
+   "y": -720,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 79,
+   "name": "Gants Hill",
+   "x": 1720,
+   "y": -680,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 80,
+   "name": "Newbury Park",
+   "x": 1800,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 81,
+   "name": "Barkingside",
+   "x": 1760,
+   "y": -760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 82,
+   "name": "Fairlop",
+   "x": 1760,
+   "y": -880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 83,
+   "name": "Hainault",
+   "x": 1760,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 84,
+   "name": "Hanger Lane",
+   "x": -1560,
+   "y": -120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 85,
+   "name": "Perivale",
+   "x": -1680,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 86,
+   "name": "Greenford",
+   "x": -1760,
+   "y": -240,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 87,
+   "name": "Northolt",
+   "x": -1840,
+   "y": -320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 88,
+   "name": "South Ruislip",
+   "x": -1960,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 89,
+   "name": "Ruislip Gardens",
+   "x": -1960,
+   "y": -440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 90,
+   "name": "West Ruislip",
+   "x": -2040,
+   "y": -520,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 91,
+   "name": "Grange Hill",
+   "x": 1720,
+   "y": -1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 92,
+   "name": "Chigwell",
+   "x": 1600,
+   "y": -1120,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 93,
+   "name": "Roding Valley",
+   "x": 1480,
+   "y": -1200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 94,
+   "name": "Edgware Road (Circle Line)",
+   "x": -720,
+   "y": 160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 95,
+   "name": "Bayswater",
+   "x": -880,
+   "y": 360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 96,
+   "name": "High Street Kensington",
+   "x": -840,
+   "y": 600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 97,
+   "name": "Gloucester Road",
+   "x": -680,
+   "y": 760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 98,
+   "name": "South Kensington",
+   "x": -600,
+   "y": 800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 99,
+   "name": "Sloane Square",
+   "x": -280,
+   "y": 920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 100,
+   "name": "Victoria",
+   "x": -40,
+   "y": 880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 101,
+   "name": "St. James's Park",
+   "x": 160,
+   "y": 840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 102,
+   "name": "Westminster",
+   "x": 320,
+   "y": 760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 103,
+   "name": "Temple",
+   "x": 600,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 104,
+   "name": "Blackfriars",
+   "x": 760,
+   "y": 400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 105,
+   "name": "Mansion House",
+   "x": 880,
+   "y": 360,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 106,
+   "name": "Cannon Street",
+   "x": 920,
+   "y": 360,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 107,
+   "name": "Monument",
+   "x": 960,
+   "y": 360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 108,
+   "name": "Tower Hill",
+   "x": 1000,
+   "y": 360,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 109,
+   "name": "Aldgate",
+   "x": 1040,
+   "y": 240,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 110,
+   "name": "Moorgate",
+   "x": 960,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 111,
+   "name": "Barbican",
+   "x": 880,
+   "y": 120,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 112,
+   "name": "Farringdon",
+   "x": 800,
+   "y": 120,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 113,
+   "name": "King's Cross St. Pancras",
+   "x": 520,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 114,
+   "name": "Euston Square",
+   "x": 280,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 115,
+   "name": "Great Portland Street",
+   "x": -280,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 116,
+   "name": "Royal Oak",
+   "x": -920,
+   "y": 120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 117,
+   "name": "Westbourne Park",
+   "x": -1040,
+   "y": 80,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 118,
+   "name": "Ladbroke Grove",
+   "x": -1080,
+   "y": 160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 119,
+   "name": "Latimer Road",
+   "x": -1120,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 120,
+   "name": "Wood Lane",
+   "x": -1160,
+   "y": 320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 121,
+   "name": "Shepherd's Bush Market",
+   "x": -1160,
+   "y": 400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 122,
+   "name": "Goldhawk Road",
+   "x": -1160,
+   "y": 480,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 123,
+   "name": "Hammersmith (H&C Line)",
+   "x": -1080,
+   "y": 640,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 124,
+   "name": "Ealing Common",
+   "x": -1520,
+   "y": 240,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 125,
+   "name": "Acton Town",
+   "x": -1480,
+   "y": 360,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 126,
+   "name": "Chiswick Park",
+   "x": -1360,
+   "y": 520,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 127,
+   "name": "Turnham Green",
+   "x": -1320,
+   "y": 520,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 128,
+   "name": "Stamford Brook",
+   "x": -1240,
+   "y": 560,
+   "label": "nw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 129,
+   "name": "Ravenscourt Park",
+   "x": -1200,
+   "y": 600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 130,
+   "name": "Barons Court",
+   "x": -1000,
+   "y": 720,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 131,
+   "name": "West Kensington",
+   "x": -920,
+   "y": 760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 132,
+   "name": "Earl's Court",
+   "x": -800,
+   "y": 760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 133,
+   "name": "Aldgate East",
+   "x": 1080,
+   "y": 200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 134,
+   "name": "Whitechapel",
+   "x": 1160,
+   "y": 80,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 135,
+   "name": "Stepney Green",
+   "x": 1240,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 136,
+   "name": "Bow Road",
+   "x": 1360,
+   "y": -80,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 137,
+   "name": "Bromley-by-Bow",
+   "x": 1440,
+   "y": -40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 138,
+   "name": "West Ham",
+   "x": 1520,
+   "y": -80,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 139,
+   "name": "Plaistow",
+   "x": 1560,
+   "y": -120,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 140,
+   "name": "Upton Park",
+   "x": 1640,
+   "y": -160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 141,
+   "name": "East Ham",
+   "x": 1720,
+   "y": -200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 142,
+   "name": "Barking",
+   "x": 1840,
+   "y": -200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 143,
+   "name": "Upney",
+   "x": 1920,
+   "y": -200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 144,
+   "name": "Becontree",
+   "x": 2000,
+   "y": -200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 145,
+   "name": "Dagenham Heathway",
+   "x": 2040,
+   "y": -200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 146,
+   "name": "Dagenham East",
+   "x": 2120,
+   "y": -240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 147,
+   "name": "Elm Park",
+   "x": 2200,
+   "y": -280,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 148,
+   "name": "Hornchurch",
+   "x": 2280,
+   "y": -320,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 149,
+   "name": "Upminster Bridge",
+   "x": 2320,
+   "y": -360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 150,
+   "name": "Upminster",
+   "x": 2360,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 151,
+   "name": "Kensington (Olympia)",
+   "x": -1000,
+   "y": 600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 152,
+   "name": "West Brompton",
+   "x": -800,
+   "y": 840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 153,
+   "name": "Fulham Broadway",
+   "x": -760,
+   "y": 960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 154,
+   "name": "Parsons Green",
+   "x": -800,
+   "y": 1000,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 155,
+   "name": "Putney Bridge",
+   "x": -840,
+   "y": 1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 156,
+   "name": "East Putney",
+   "x": -800,
+   "y": 1160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 157,
+   "name": "Southfields",
+   "x": -680,
+   "y": 1320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 158,
+   "name": "Wimbledon Park",
+   "x": -600,
+   "y": 1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 159,
+   "name": "Wimbledon",
+   "x": -600,
+   "y": 1560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 160,
+   "name": "Gunnersbury",
+   "x": -1400,
+   "y": 520,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 161,
+   "name": "Kew Gardens",
+   "x": -1400,
+   "y": 720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 162,
+   "name": "Richmond",
+   "x": -1440,
+   "y": 880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 163,
+   "name": "Stanmore",
+   "x": -1320,
+   "y": -1280,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 164,
+   "name": "Canons Park",
+   "x": -1320,
+   "y": -1160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 165,
+   "name": "Queensbury",
+   "x": -1320,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 166,
+   "name": "Kingsbury",
+   "x": -1320,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 167,
+   "name": "Wembley Park",
+   "x": -1400,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 168,
+   "name": "Neasden",
+   "x": -1280,
+   "y": -560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 169,
+   "name": "Dollis Hill",
+   "x": -1200,
+   "y": -560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 170,
+   "name": "Willesden Green",
+   "x": -1080,
+   "y": -560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 171,
+   "name": "Kilburn",
+   "x": -960,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 172,
+   "name": "West Hampstead",
+   "x": -840,
+   "y": -640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 173,
+   "name": "Finchley Road",
+   "x": -720,
+   "y": -680,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 174,
+   "name": "Swiss Cottage",
+   "x": -680,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 175,
+   "name": "St. John's Wood",
+   "x": -720,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 176,
+   "name": "Green Park",
+   "x": -80,
+   "y": 720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 177,
+   "name": "Southwark",
+   "x": 680,
+   "y": 600,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 178,
+   "name": "London Bridge",
+   "x": 880,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 179,
+   "name": "Bermondsey",
+   "x": 1040,
+   "y": 560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 180,
+   "name": "Canada Water",
+   "x": 1160,
+   "y": 520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 181,
+   "name": "Canary Wharf",
+   "x": 1360,
+   "y": 320,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 182,
+   "name": "North Greenwich",
+   "x": 1480,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 183,
+   "name": "Canning Town",
+   "x": 1520,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 184,
+   "name": "Preston Road",
+   "x": -1480,
+   "y": -720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 185,
+   "name": "Northwick Park",
+   "x": -1560,
+   "y": -760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 186,
+   "name": "Harrow-on-the-Hill",
+   "x": -1640,
+   "y": -760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 187,
+   "name": "North Harrow",
+   "x": -1760,
+   "y": -760,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 188,
+   "name": "Pinner",
+   "x": -1800,
+   "y": -840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 189,
+   "name": "Northwood Hills",
+   "x": -1880,
+   "y": -880,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 190,
+   "name": "Northwood",
+   "x": -1920,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 191,
+   "name": "Moor Park",
+   "x": -1920,
+   "y": -1120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 192,
+   "name": "Croxley",
+   "x": -1920,
+   "y": -1240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 193,
+   "name": "Watford",
+   "x": -1760,
+   "y": -1400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 194,
+   "name": "Rickmansworth",
+   "x": -2040,
+   "y": -1160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 195,
+   "name": "Chorleywood",
+   "x": -2160,
+   "y": -1200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 196,
+   "name": "Chalfont & Latimer",
+   "x": -2280,
+   "y": -1240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 197,
+   "name": "Amersham",
+   "x": -2400,
+   "y": -1240,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 198,
+   "name": "Chesham",
+   "x": -2360,
+   "y": -1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 199,
+   "name": "West Harrow",
+   "x": -1720,
+   "y": -720,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 200,
+   "name": "Rayners Lane",
+   "x": -1800,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 201,
+   "name": "Eastcote",
+   "x": -1920,
+   "y": -640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 202,
+   "name": "Ruislip Manor",
+   "x": -1960,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 203,
+   "name": "Ruislip",
+   "x": -2000,
+   "y": -560,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 204,
+   "name": "Ickenham",
+   "x": -2080,
+   "y": -440,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 205,
+   "name": "Hillingdon",
+   "x": -2120,
+   "y": -320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 206,
+   "name": "Uxbridge",
+   "x": -2200,
+   "y": -240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 207,
+   "name": "Battersea Power",
+   "x": -40,
+   "y": 1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 208,
+   "name": "Nine Elms",
+   "x": 200,
+   "y": 1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 209,
+   "name": "Kennington",
+   "x": 560,
+   "y": 920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 210,
+   "name": "Leicester Square",
+   "x": 360,
+   "y": 560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 211,
+   "name": "Goodge Street",
+   "x": 320,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 212,
+   "name": "Warren Street",
+   "x": 200,
+   "y": -200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 213,
+   "name": "Euston",
+   "x": 320,
+   "y": -320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 214,
+   "name": "Mornington Crescent",
+   "x": 40,
+   "y": -600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 215,
+   "name": "Camden Town",
+   "x": -80,
+   "y": -680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 216,
+   "name": "Chalk Farm",
+   "x": -280,
+   "y": -760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 217,
+   "name": "Belsize Park",
+   "x": -440,
+   "y": -800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 218,
+   "name": "Hampstead",
+   "x": -600,
+   "y": -840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 219,
+   "name": "Golders Green",
+   "x": -720,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 220,
+   "name": "Brent Cross",
+   "x": -880,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 221,
+   "name": "Hendon Central",
+   "x": -960,
+   "y": -1080,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 222,
+   "name": "Colindale",
+   "x": -1080,
+   "y": -1160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 223,
+   "name": "Burnt Oak",
+   "x": -1160,
+   "y": -1200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 224,
+   "name": "Edgware",
+   "x": -1200,
+   "y": -1280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 225,
+   "name": "Kentish Town",
+   "x": 0,
+   "y": -880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 226,
+   "name": "Tufnell Park",
+   "x": 40,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 227,
+   "name": "Archway",
+   "x": 80,
+   "y": -1080,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 228,
+   "name": "Highgate",
+   "x": -80,
+   "y": -1200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 229,
+   "name": "East Finchley",
+   "x": -320,
+   "y": -1280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 230,
+   "name": "Finchley Central",
+   "x": -560,
+   "y": -1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 231,
+   "name": "West Finchley",
+   "x": -480,
+   "y": -1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 232,
+   "name": "Woodside Park",
+   "x": -440,
+   "y": -1520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 233,
+   "name": "Totteridge & Whetstone",
+   "x": -360,
+   "y": -1600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 234,
+   "name": "High Barnet",
+   "x": -440,
+   "y": -1720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 235,
+   "name": "Angel",
+   "x": 760,
+   "y": -280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 236,
+   "name": "Old Street",
+   "x": 960,
+   "y": -80,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 237,
+   "name": "Borough",
+   "x": 800,
+   "y": 600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 238,
+   "name": "Oval",
+   "x": 440,
+   "y": 1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 239,
+   "name": "Stockwell",
+   "x": 240,
+   "y": 1160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 240,
+   "name": "Clapham North",
+   "x": 120,
+   "y": 1240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 241,
+   "name": "Clapham Common",
+   "x": 40,
+   "y": 1280,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 242,
+   "name": "Clapham South",
+   "x": -80,
+   "y": 1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 243,
+   "name": "Balham",
+   "x": -160,
+   "y": 1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 244,
+   "name": "Tooting Bec",
+   "x": -200,
+   "y": 1480,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 245,
+   "name": "Tooting Broadway",
+   "x": -280,
+   "y": 1560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 246,
+   "name": "Colliers Wood",
+   "x": -360,
+   "y": 1600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 247,
+   "name": "South Wimbledon",
+   "x": -480,
+   "y": 1600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 248,
+   "name": "Morden",
+   "x": -480,
+   "y": 1680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 249,
+   "name": "Mill Hill East",
+   "x": -720,
+   "y": -1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 250,
+   "name": "Cockfosters",
+   "x": -80,
+   "y": -1760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 251,
+   "name": "Oakwood",
+   "x": 80,
+   "y": -1760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 252,
+   "name": "Southgate",
+   "x": 120,
+   "y": -1640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 253,
+   "name": "Arnos Grove",
+   "x": 80,
+   "y": -1520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 254,
+   "name": "Bounds Green",
+   "x": 160,
+   "y": -1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 255,
+   "name": "Wood Green",
+   "x": 360,
+   "y": -1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 256,
+   "name": "Turnpike Lane",
+   "x": 440,
+   "y": -1280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 257,
+   "name": "Manor House",
+   "x": 600,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 258,
+   "name": "Finsbury Park",
+   "x": 520,
+   "y": -1000,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 259,
+   "name": "Arsenal",
+   "x": 520,
+   "y": -920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 260,
+   "name": "Holloway Road",
+   "x": 480,
+   "y": -840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 261,
+   "name": "Caledonian Road",
+   "x": 440,
+   "y": -800,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 262,
+   "name": "Russell Square",
+   "x": 560,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 263,
+   "name": "Covent Garden",
+   "x": 440,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 264,
+   "name": "Hyde Park Corner",
+   "x": -280,
+   "y": 760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 265,
+   "name": "Knightsbridge",
+   "x": -440,
+   "y": 760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 266,
+   "name": "North Ealing",
+   "x": -1520,
+   "y": 120,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 267,
+   "name": "Park Royal",
+   "x": -1520,
+   "y": -40,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 268,
+   "name": "Alperton",
+   "x": -1560,
+   "y": -280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 269,
+   "name": "Sudbury Town",
+   "x": -1640,
+   "y": -400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 270,
+   "name": "Sudbury Hill",
+   "x": -1720,
+   "y": -480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 271,
+   "name": "South Harrow",
+   "x": -1760,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 272,
+   "name": "South Ealing",
+   "x": -1600,
+   "y": 360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 273,
+   "name": "Northfields",
+   "x": -1640,
+   "y": 360,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 274,
+   "name": "Boston Manor",
+   "x": -1680,
+   "y": 400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 275,
+   "name": "Osterley",
+   "x": -1760,
+   "y": 560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 276,
+   "name": "Hounslow East",
+   "x": -1760,
+   "y": 640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 277,
+   "name": "Hounslow Central",
+   "x": -1800,
+   "y": 680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 278,
+   "name": "Hounslow West",
+   "x": -1880,
+   "y": 600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 279,
+   "name": "Hatton Cross",
+   "x": -2000,
+   "y": 640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 280,
+   "name": "Heathrow Terminal 4",
+   "x": -2040,
+   "y": 720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 281,
+   "name": "Heathrow Terminals 2 & 3",
+   "x": -2120,
+   "y": 560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 282,
+   "name": "Heathrow Terminal 5",
+   "x": -2200,
+   "y": 560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 283,
+   "name": "Brixton",
+   "x": 320,
+   "y": 1240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 284,
+   "name": "Vauxhall",
+   "x": 280,
+   "y": 1000,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 285,
+   "name": "Pimlico",
+   "x": 120,
+   "y": 960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 286,
+   "name": "Highbury & Islington",
+   "x": 680,
+   "y": -680,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 287,
+   "name": "Seven Sisters",
+   "x": 800,
+   "y": -1120,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 288,
+   "name": "Tottenham Hale",
+   "x": 880,
+   "y": -1160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 289,
+   "name": "Blackhorse Road",
+   "x": 1040,
+   "y": -1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 290,
+   "name": "Walthamstow Central",
+   "x": 1200,
+   "y": -960,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 291,
+   "name": "Abbey Wood",
+   "x": 1960,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 292,
+   "name": "Woolwich",
+   "x": 1760,
+   "y": 440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 293,
+   "name": "Custom House",
+   "x": 1600,
+   "y": 200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 294,
+   "name": "Acton Main Line",
+   "x": -1440,
+   "y": 120,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 295,
+   "name": "West Ealing",
+   "x": -1680,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 296,
+   "name": "Hanwell",
+   "x": -1720,
+   "y": 160,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 297,
+   "name": "Southall",
+   "x": -1880,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 298,
+   "name": "Hayes & Harlington",
+   "x": -2040,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 299,
+   "name": "West Drayton",
+   "x": -2200,
+   "y": 160,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 300,
+   "name": "Iver",
+   "x": -2280,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 301,
+   "name": "Langley (Berks)",
+   "x": -2400,
+   "y": 160,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 302,
+   "name": "Slough",
+   "x": -2520,
+   "y": 120,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 303,
+   "name": "Burnham (Berks)",
+   "x": -2640,
+   "y": 0,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 304,
+   "name": "Taplow",
+   "x": -2720,
+   "y": 0,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 305,
+   "name": "Maidenhead",
+   "x": -2840,
+   "y": 40,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 306,
+   "name": "Twyford",
+   "x": -3120,
+   "y": 320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 307,
+   "name": "Reading",
+   "x": -3320,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 308,
+   "name": "Maryland",
+   "x": 1480,
+   "y": -360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 309,
+   "name": "Forest Gate",
+   "x": 1560,
+   "y": -400,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 310,
+   "name": "Manor Park",
+   "x": 1680,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 311,
+   "name": "Ilford",
+   "x": 1760,
+   "y": -480,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 312,
+   "name": "Seven Kings",
+   "x": 1840,
+   "y": -520,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 313,
+   "name": "Goodmayes",
+   "x": 1920,
+   "y": -520,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 314,
+   "name": "Chadwell Heath",
+   "x": 1960,
+   "y": -520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 315,
+   "name": "Romford",
+   "x": 2120,
+   "y": -560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 316,
+   "name": "Gidea Park",
+   "x": 2200,
+   "y": -600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 317,
+   "name": "Harold Wood",
+   "x": 2280,
+   "y": -680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 318,
+   "name": "Brentwood",
+   "x": 2440,
+   "y": -800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 319,
+   "name": "Shenfield",
+   "x": 2480,
+   "y": -920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 320,
+   "name": "Shadwell",
+   "x": 1160,
+   "y": 280,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 321,
+   "name": "Limehouse",
+   "x": 1280,
+   "y": 240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 322,
+   "name": "Westferry",
+   "x": 1360,
+   "y": 280,
+   "label": "nw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 323,
+   "name": "Heron Quays",
+   "x": 1360,
+   "y": 360,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 324,
+   "name": "South Quay",
+   "x": 1360,
+   "y": 440,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 325,
+   "name": "Crossharbour",
+   "x": 1360,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 326,
+   "name": "Mudchute",
+   "x": 1360,
+   "y": 560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 327,
+   "name": "Island Gardens",
+   "x": 1360,
+   "y": 600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 328,
+   "name": "Cutty Sark (for Maritime Greenwich)",
+   "x": 1360,
+   "y": 720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 329,
+   "name": "Greenwich",
+   "x": 1320,
+   "y": 760,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 330,
+   "name": "Deptford Bridge",
+   "x": 1240,
+   "y": 840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 331,
+   "name": "Elverson Road",
+   "x": 1240,
+   "y": 880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 332,
+   "name": "Lewisham",
+   "x": 1280,
+   "y": 960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 333,
+   "name": "Poplar",
+   "x": 1400,
+   "y": 280,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 334,
+   "name": "Blackwall",
+   "x": 1440,
+   "y": 280,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 335,
+   "name": "East India",
+   "x": 1480,
+   "y": 240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 336,
+   "name": "West Silvertown",
+   "x": 1560,
+   "y": 320,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 337,
+   "name": "Pontoon Dock",
+   "x": 1600,
+   "y": 320,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 338,
+   "name": "London City Airport",
+   "x": 1680,
+   "y": 280,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 339,
+   "name": "King George V",
+   "x": 1760,
+   "y": 320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 340,
+   "name": "Woolwich Arsenal",
+   "x": 1760,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 341,
+   "name": "Beckton",
+   "x": 1760,
+   "y": 120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 342,
+   "name": "Gallions Reach",
+   "x": 1800,
+   "y": 200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 343,
+   "name": "Cyprus",
+   "x": 1760,
+   "y": 200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 344,
+   "name": "Beckton Park",
+   "x": 1720,
+   "y": 200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 345,
+   "name": "Royal Albert",
+   "x": 1680,
+   "y": 240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 346,
+   "name": "Prince Regent",
+   "x": 1640,
+   "y": 200,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 347,
+   "name": "Royal Victoria",
+   "x": 1560,
+   "y": 240,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 348,
+   "name": "Tower Gateway",
+   "x": 1040,
+   "y": 320,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 349,
+   "name": "West India Quay",
+   "x": 1400,
+   "y": 320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 350,
+   "name": "All Saints",
+   "x": 1400,
+   "y": 240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 351,
+   "name": "Langdon Park",
+   "x": 1400,
+   "y": 160,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 352,
+   "name": "Devons Road",
+   "x": 1400,
+   "y": 0,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 353,
+   "name": "Bow Church",
+   "x": 1400,
+   "y": -80,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 354,
+   "name": "Pudding Mill Lane",
+   "x": 1440,
+   "y": -200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 355,
+   "name": "Stratford International",
+   "x": 1400,
+   "y": -360,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 356,
+   "name": "Stratford High Street",
+   "x": 1480,
+   "y": -240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 357,
+   "name": "Abbey Road",
+   "x": 1520,
+   "y": -120,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 358,
+   "name": "Star Lane",
+   "x": 1520,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 359,
+   "name": "Emerson Park",
+   "x": 2240,
+   "y": -440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 360,
+   "name": "South Hampstead",
+   "x": -720,
+   "y": -560,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 361,
+   "name": "Kilburn High Road",
+   "x": -920,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 362,
+   "name": "Headstone Lane",
+   "x": -1680,
+   "y": -960,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 363,
+   "name": "Hatch End",
+   "x": -1720,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 364,
+   "name": "Carpenders Park",
+   "x": -1720,
+   "y": -1200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 365,
+   "name": "Bushey",
+   "x": -1680,
+   "y": -1320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 366,
+   "name": "Watford High Street",
+   "x": -1680,
+   "y": -1400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 367,
+   "name": "Watford Junction",
+   "x": -1680,
+   "y": -1480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 368,
+   "name": "Clapham Junction",
+   "x": -400,
+   "y": 1240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 369,
+   "name": "Imperial Wharf",
+   "x": -560,
+   "y": 1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 370,
+   "name": "Kensal Rise",
+   "x": -1160,
+   "y": -240,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 371,
+   "name": "Brondesbury Park",
+   "x": -1040,
+   "y": -400,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 372,
+   "name": "Brondesbury",
+   "x": -960,
+   "y": -520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 373,
+   "name": "Finchley Road & Frognal",
+   "x": -720,
+   "y": -720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 374,
+   "name": "Hampstead Heath",
+   "x": -440,
+   "y": -880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 375,
+   "name": "Gospel Oak",
+   "x": -200,
+   "y": -920,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 376,
+   "name": "Kentish Town West",
+   "x": -120,
+   "y": -800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 377,
+   "name": "Camden Road",
+   "x": 40,
+   "y": -720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 378,
+   "name": "Caledonian Road & Barnsbury",
+   "x": 520,
+   "y": -680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 379,
+   "name": "Canonbury",
+   "x": 800,
+   "y": -680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 380,
+   "name": "Dalston Kingsland",
+   "x": 960,
+   "y": -600,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 381,
+   "name": "Hackney Central",
+   "x": 1120,
+   "y": -520,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 382,
+   "name": "Homerton",
+   "x": 1240,
+   "y": -480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 383,
+   "name": "Hackney Wick",
+   "x": 1320,
+   "y": -360,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 384,
+   "name": "South Acton",
+   "x": -1400,
+   "y": 400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 385,
+   "name": "Acton Central",
+   "x": -1400,
+   "y": 280,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 386,
+   "name": "Barking Riverside",
+   "x": 1960,
+   "y": 40,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 387,
+   "name": "Woodgrange Park",
+   "x": 1680,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 388,
+   "name": "Wanstead Park",
+   "x": 1600,
+   "y": -440,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 389,
+   "name": "Leytonstone High Road",
+   "x": 1480,
+   "y": -640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 390,
+   "name": "Leyton Midland Road",
+   "x": 1360,
+   "y": -760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 391,
+   "name": "Walthamstow Queens Road",
+   "x": 1200,
+   "y": -920,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 392,
+   "name": "South Tottenham",
+   "x": 800,
+   "y": -1080,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 393,
+   "name": "Harringay Green Lanes",
+   "x": 560,
+   "y": -1120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 394,
+   "name": "Crouch Hill",
+   "x": 320,
+   "y": -1120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 395,
+   "name": "Upper Holloway",
+   "x": 160,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 396,
+   "name": "Cheshunt",
+   "x": 800,
+   "y": -1960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 397,
+   "name": "Theobalds Grove",
+   "x": 760,
+   "y": -1920,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 398,
+   "name": "Turkey Street",
+   "x": 720,
+   "y": -1840,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 399,
+   "name": "Southbury",
+   "x": 720,
+   "y": -1680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 400,
+   "name": "Edmonton Green",
+   "x": 720,
+   "y": -1520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 401,
+   "name": "Silver Street",
+   "x": 720,
+   "y": -1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 402,
+   "name": "White Hart Lane",
+   "x": 720,
+   "y": -1360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 403,
+   "name": "Bruce Grove",
+   "x": 760,
+   "y": -1240,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 404,
+   "name": "Stamford Hill",
+   "x": 800,
+   "y": -1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 405,
+   "name": "Stoke Newington",
+   "x": 880,
+   "y": -880,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 406,
+   "name": "Rectory Road",
+   "x": 960,
+   "y": -760,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 407,
+   "name": "Hackney Downs",
+   "x": 1080,
+   "y": -560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 408,
+   "name": "London Fields",
+   "x": 1160,
+   "y": -400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 409,
+   "name": "Cambridge Heath",
+   "x": 1160,
+   "y": -200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 410,
+   "name": "Bethnal Green",
+   "x": 1160,
+   "y": 0,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 411,
+   "name": "Chingford",
+   "x": 1200,
+   "y": -1400,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 412,
+   "name": "Highams Park",
+   "x": 1240,
+   "y": -1200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 413,
+   "name": "Wood Street",
+   "x": 1320,
+   "y": -960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 414,
+   "name": "St James Street",
+   "x": 1120,
+   "y": -960,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 415,
+   "name": "Clapton",
+   "x": 1040,
+   "y": -760,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 416,
+   "name": "Enfield Town",
+   "x": 520,
+   "y": -1720,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 417,
+   "name": "Bush Hill Park",
+   "x": 600,
+   "y": -1640,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 418,
+   "name": "Wandsworth Road",
+   "x": 40,
+   "y": 1200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 419,
+   "name": "Clapham High Street",
+   "x": 80,
+   "y": 1240,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 420,
+   "name": "Denmark Hill",
+   "x": 640,
+   "y": 1120,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 421,
+   "name": "Peckham Rye",
+   "x": 840,
+   "y": 1040,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 422,
+   "name": "Queens Road Peckham",
+   "x": 1000,
+   "y": 960,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 423,
+   "name": "Surrey Quays",
+   "x": 1160,
+   "y": 600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 424,
+   "name": "Rotherhithe",
+   "x": 1160,
+   "y": 480,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 425,
+   "name": "Wapping",
+   "x": 1160,
+   "y": 440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 426,
+   "name": "Shoreditch High Street",
+   "x": 1040,
+   "y": 0,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 427,
+   "name": "Hoxton",
+   "x": 1040,
+   "y": -200,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 428,
+   "name": "Haggerston",
+   "x": 1000,
+   "y": -360,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 429,
+   "name": "Dalston Junction",
+   "x": 1000,
+   "y": -560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 430,
+   "name": "Crystal Palace",
+   "x": 640,
+   "y": 1560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 431,
+   "name": "Sydenham",
+   "x": 800,
+   "y": 1440,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 432,
+   "name": "Forest Hill",
+   "x": 840,
+   "y": 1320,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 433,
+   "name": "Honor Oak Park",
+   "x": 960,
+   "y": 1200,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 434,
+   "name": "Brockley",
+   "x": 1080,
+   "y": 1000,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 435,
+   "name": "New Cross Gate",
+   "x": 1120,
+   "y": 880,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 436,
+   "name": "New Cross ELL",
+   "x": 1200,
+   "y": 840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 437,
+   "name": "Penge West",
+   "x": 720,
+   "y": 1560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 438,
+   "name": "Anerley",
+   "x": 680,
+   "y": 1600,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 439,
+   "name": "Norwood Junction",
+   "x": 560,
+   "y": 1720,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 440,
+   "name": "West Croydon",
+   "x": 320,
+   "y": 1840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 441,
+   "name": "Beckenham Junction",
+   "x": 960,
+   "y": 1520,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 442,
+   "name": "Beckenham Road",
+   "x": 840,
+   "y": 1560,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 443,
+   "name": "Avenue Road",
+   "x": 760,
+   "y": 1600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 444,
+   "name": "Birkbeck",
+   "x": 720,
+   "y": 1640,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 445,
+   "name": "Harrington Road",
+   "x": 680,
+   "y": 1680,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 446,
+   "name": "Arena",
+   "x": 680,
+   "y": 1720,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 447,
+   "name": "Woodside",
+   "x": 600,
+   "y": 1760,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 448,
+   "name": "Blackhorse Lane",
+   "x": 560,
+   "y": 1800,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 449,
+   "name": "Addiscombe",
+   "x": 520,
+   "y": 1840,
+   "label": "nw",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 450,
+   "name": "Sandilands",
+   "x": 480,
+   "y": 1880,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 451,
+   "name": "Lebanon Road",
+   "x": 440,
+   "y": 1880,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 452,
+   "name": "East Croydon",
+   "x": 360,
+   "y": 1880,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 453,
+   "name": "George Street",
+   "x": 320,
+   "y": 1880,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 454,
+   "name": "Church Street",
+   "x": 280,
+   "y": 1880,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 455,
+   "name": "Wandle Park",
+   "x": 200,
+   "y": 1880,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 456,
+   "name": "Waddon Marsh",
+   "x": 160,
+   "y": 1880,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 457,
+   "name": "Ampere Way",
+   "x": 120,
+   "y": 1840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 458,
+   "name": "Therapia Lane",
+   "x": 80,
+   "y": 1840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 459,
+   "name": "Beddington Lane",
+   "x": 0,
+   "y": 1800,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 460,
+   "name": "Mitcham Junction",
+   "x": -160,
+   "y": 1800,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 461,
+   "name": "Mitcham",
+   "x": -280,
+   "y": 1760,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 462,
+   "name": "Belgrave Walk",
+   "x": -320,
+   "y": 1720,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 463,
+   "name": "Phipps Bridge",
+   "x": -360,
+   "y": 1680,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 464,
+   "name": "Morden Road",
+   "x": -480,
+   "y": 1640,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 465,
+   "name": "Merton Park",
+   "x": -560,
+   "y": 1600,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 466,
+   "name": "Dundonald Road",
+   "x": -640,
+   "y": 1560,
+   "label": "w",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 467,
+   "name": "Centrale",
+   "x": 280,
+   "y": 1840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 468,
+   "name": "Wellesley Road",
+   "x": 360,
+   "y": 1840,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 469,
+   "name": "Lloyd Park",
+   "x": 440,
+   "y": 1920,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 470,
+   "name": "Coombe Lane",
+   "x": 600,
+   "y": 1920,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 471,
+   "name": "Gravel Hill",
+   "x": 680,
+   "y": 1960,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 472,
+   "name": "Addington Village",
+   "x": 760,
+   "y": 1920,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 473,
+   "name": "Fieldway",
+   "x": 800,
+   "y": 1920,
+   "label": "ne",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 474,
+   "name": "King Henry's Drive",
+   "x": 840,
+   "y": 1960,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 475,
+   "name": "New Addington",
+   "x": 840,
+   "y": 2000,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 476,
+   "name": "Elmers End",
+   "x": 760,
+   "y": 1680,
+   "label": "e",
+   "kind": "stop",
+   "group": null
+  },
+  {
+   "id": 477,
+   "name": "Reeves Corner",
+   "x": 240,
+   "y": 1880,
+   "label": "se",
+   "kind": "stop",
+   "group": null
+  }
+ ],
+ "segments": [
+  {
+   "id": 478,
+   "line": 1,
+   "a": 21,
+   "b": 22,
+   "flip": false
+  },
+  {
+   "id": 479,
+   "line": 1,
+   "a": 22,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 480,
+   "line": 1,
+   "a": 23,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 481,
+   "line": 1,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 482,
+   "line": 1,
+   "a": 25,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 483,
+   "line": 1,
+   "a": 26,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 484,
+   "line": 1,
+   "a": 27,
+   "b": 28,
+   "flip": false
+  },
+  {
+   "id": 485,
+   "line": 1,
+   "a": 28,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 486,
+   "line": 1,
+   "a": 29,
+   "b": 30,
+   "flip": false
+  },
+  {
+   "id": 487,
+   "line": 1,
+   "a": 30,
+   "b": 31,
+   "flip": false
+  },
+  {
+   "id": 488,
+   "line": 1,
+   "a": 31,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 489,
+   "line": 1,
+   "a": 32,
+   "b": 33,
+   "flip": false
+  },
+  {
+   "id": 490,
+   "line": 1,
+   "a": 33,
+   "b": 34,
+   "flip": false
+  },
+  {
+   "id": 491,
+   "line": 1,
+   "a": 34,
+   "b": 35,
+   "flip": false
+  },
+  {
+   "id": 492,
+   "line": 1,
+   "a": 35,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 493,
+   "line": 1,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 494,
+   "line": 1,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 495,
+   "line": 1,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 496,
+   "line": 1,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 497,
+   "line": 1,
+   "a": 40,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 498,
+   "line": 1,
+   "a": 41,
+   "b": 42,
+   "flip": false
+  },
+  {
+   "id": 499,
+   "line": 1,
+   "a": 42,
+   "b": 43,
+   "flip": false
+  },
+  {
+   "id": 500,
+   "line": 1,
+   "a": 43,
+   "b": 44,
+   "flip": false
+  },
+  {
+   "id": 501,
+   "line": 1,
+   "a": 44,
+   "b": 45,
+   "flip": false
+  },
+  {
+   "id": 502,
+   "line": 2,
+   "a": 46,
+   "b": 47,
+   "flip": false
+  },
+  {
+   "id": 503,
+   "line": 2,
+   "a": 47,
+   "b": 48,
+   "flip": false
+  },
+  {
+   "id": 504,
+   "line": 2,
+   "a": 48,
+   "b": 49,
+   "flip": false
+  },
+  {
+   "id": 505,
+   "line": 2,
+   "a": 49,
+   "b": 50,
+   "flip": false
+  },
+  {
+   "id": 506,
+   "line": 2,
+   "a": 50,
+   "b": 51,
+   "flip": false
+  },
+  {
+   "id": 507,
+   "line": 2,
+   "a": 51,
+   "b": 52,
+   "flip": false
+  },
+  {
+   "id": 508,
+   "line": 2,
+   "a": 52,
+   "b": 53,
+   "flip": false
+  },
+  {
+   "id": 509,
+   "line": 2,
+   "a": 53,
+   "b": 54,
+   "flip": false
+  },
+  {
+   "id": 510,
+   "line": 2,
+   "a": 54,
+   "b": 55,
+   "flip": false
+  },
+  {
+   "id": 511,
+   "line": 2,
+   "a": 55,
+   "b": 56,
+   "flip": false
+  },
+  {
+   "id": 512,
+   "line": 2,
+   "a": 56,
+   "b": 57,
+   "flip": false
+  },
+  {
+   "id": 513,
+   "line": 2,
+   "a": 57,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 514,
+   "line": 2,
+   "a": 27,
+   "b": 58,
+   "flip": false
+  },
+  {
+   "id": 515,
+   "line": 2,
+   "a": 58,
+   "b": 59,
+   "flip": false
+  },
+  {
+   "id": 516,
+   "line": 2,
+   "a": 59,
+   "b": 60,
+   "flip": false
+  },
+  {
+   "id": 517,
+   "line": 2,
+   "a": 60,
+   "b": 61,
+   "flip": false
+  },
+  {
+   "id": 518,
+   "line": 2,
+   "a": 61,
+   "b": 62,
+   "flip": false
+  },
+  {
+   "id": 519,
+   "line": 2,
+   "a": 62,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 520,
+   "line": 2,
+   "a": 63,
+   "b": 64,
+   "flip": false
+  },
+  {
+   "id": 521,
+   "line": 2,
+   "a": 64,
+   "b": 65,
+   "flip": false
+  },
+  {
+   "id": 522,
+   "line": 2,
+   "a": 65,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 523,
+   "line": 2,
+   "a": 66,
+   "b": 67,
+   "flip": false
+  },
+  {
+   "id": 524,
+   "line": 2,
+   "a": 67,
+   "b": 68,
+   "flip": false
+  },
+  {
+   "id": 525,
+   "line": 2,
+   "a": 68,
+   "b": 69,
+   "flip": false
+  },
+  {
+   "id": 526,
+   "line": 2,
+   "a": 69,
+   "b": 70,
+   "flip": false
+  },
+  {
+   "id": 527,
+   "line": 2,
+   "a": 70,
+   "b": 71,
+   "flip": false
+  },
+  {
+   "id": 528,
+   "line": 2,
+   "a": 71,
+   "b": 72,
+   "flip": false
+  },
+  {
+   "id": 529,
+   "line": 2,
+   "a": 72,
+   "b": 73,
+   "flip": false
+  },
+  {
+   "id": 530,
+   "line": 2,
+   "a": 73,
+   "b": 74,
+   "flip": false
+  },
+  {
+   "id": 531,
+   "line": 2,
+   "a": 74,
+   "b": 75,
+   "flip": false
+  },
+  {
+   "id": 532,
+   "line": 2,
+   "a": 75,
+   "b": 76,
+   "flip": false
+  },
+  {
+   "id": 533,
+   "line": 2,
+   "a": 68,
+   "b": 77,
+   "flip": false
+  },
+  {
+   "id": 534,
+   "line": 2,
+   "a": 77,
+   "b": 78,
+   "flip": false
+  },
+  {
+   "id": 535,
+   "line": 2,
+   "a": 78,
+   "b": 79,
+   "flip": false
+  },
+  {
+   "id": 536,
+   "line": 2,
+   "a": 79,
+   "b": 80,
+   "flip": false
+  },
+  {
+   "id": 537,
+   "line": 2,
+   "a": 80,
+   "b": 81,
+   "flip": false
+  },
+  {
+   "id": 538,
+   "line": 2,
+   "a": 81,
+   "b": 82,
+   "flip": false
+  },
+  {
+   "id": 539,
+   "line": 2,
+   "a": 82,
+   "b": 83,
+   "flip": false
+  },
+  {
+   "id": 540,
+   "line": 2,
+   "a": 48,
+   "b": 84,
+   "flip": false
+  },
+  {
+   "id": 541,
+   "line": 2,
+   "a": 84,
+   "b": 85,
+   "flip": false
+  },
+  {
+   "id": 542,
+   "line": 2,
+   "a": 85,
+   "b": 86,
+   "flip": false
+  },
+  {
+   "id": 543,
+   "line": 2,
+   "a": 86,
+   "b": 87,
+   "flip": false
+  },
+  {
+   "id": 544,
+   "line": 2,
+   "a": 87,
+   "b": 88,
+   "flip": false
+  },
+  {
+   "id": 545,
+   "line": 2,
+   "a": 88,
+   "b": 89,
+   "flip": false
+  },
+  {
+   "id": 546,
+   "line": 2,
+   "a": 89,
+   "b": 90,
+   "flip": false
+  },
+  {
+   "id": 547,
+   "line": 2,
+   "a": 83,
+   "b": 91,
+   "flip": false
+  },
+  {
+   "id": 548,
+   "line": 2,
+   "a": 91,
+   "b": 92,
+   "flip": false
+  },
+  {
+   "id": 549,
+   "line": 2,
+   "a": 92,
+   "b": 93,
+   "flip": false
+  },
+  {
+   "id": 550,
+   "line": 2,
+   "a": 93,
+   "b": 71,
+   "flip": false
+  },
+  {
+   "id": 551,
+   "line": 3,
+   "a": 94,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 552,
+   "line": 3,
+   "a": 32,
+   "b": 95,
+   "flip": false
+  },
+  {
+   "id": 553,
+   "line": 3,
+   "a": 95,
+   "b": 53,
+   "flip": false
+  },
+  {
+   "id": 554,
+   "line": 3,
+   "a": 53,
+   "b": 96,
+   "flip": false
+  },
+  {
+   "id": 555,
+   "line": 3,
+   "a": 96,
+   "b": 97,
+   "flip": false
+  },
+  {
+   "id": 556,
+   "line": 3,
+   "a": 97,
+   "b": 98,
+   "flip": false
+  },
+  {
+   "id": 557,
+   "line": 3,
+   "a": 98,
+   "b": 99,
+   "flip": false
+  },
+  {
+   "id": 558,
+   "line": 3,
+   "a": 99,
+   "b": 100,
+   "flip": false
+  },
+  {
+   "id": 559,
+   "line": 3,
+   "a": 100,
+   "b": 101,
+   "flip": false
+  },
+  {
+   "id": 560,
+   "line": 3,
+   "a": 101,
+   "b": 102,
+   "flip": false
+  },
+  {
+   "id": 561,
+   "line": 3,
+   "a": 102,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 562,
+   "line": 3,
+   "a": 24,
+   "b": 103,
+   "flip": false
+  },
+  {
+   "id": 563,
+   "line": 3,
+   "a": 103,
+   "b": 104,
+   "flip": false
+  },
+  {
+   "id": 564,
+   "line": 3,
+   "a": 104,
+   "b": 105,
+   "flip": false
+  },
+  {
+   "id": 565,
+   "line": 3,
+   "a": 105,
+   "b": 106,
+   "flip": false
+  },
+  {
+   "id": 566,
+   "line": 3,
+   "a": 106,
+   "b": 107,
+   "flip": false
+  },
+  {
+   "id": 567,
+   "line": 3,
+   "a": 107,
+   "b": 108,
+   "flip": false
+  },
+  {
+   "id": 568,
+   "line": 3,
+   "a": 108,
+   "b": 109,
+   "flip": false
+  },
+  {
+   "id": 569,
+   "line": 3,
+   "a": 109,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 570,
+   "line": 3,
+   "a": 63,
+   "b": 110,
+   "flip": false
+  },
+  {
+   "id": 571,
+   "line": 3,
+   "a": 110,
+   "b": 111,
+   "flip": false
+  },
+  {
+   "id": 572,
+   "line": 3,
+   "a": 111,
+   "b": 112,
+   "flip": false
+  },
+  {
+   "id": 573,
+   "line": 3,
+   "a": 112,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 574,
+   "line": 3,
+   "a": 113,
+   "b": 114,
+   "flip": false
+  },
+  {
+   "id": 575,
+   "line": 3,
+   "a": 114,
+   "b": 115,
+   "flip": false
+  },
+  {
+   "id": 576,
+   "line": 3,
+   "a": 115,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 577,
+   "line": 3,
+   "a": 29,
+   "b": 94,
+   "flip": false
+  },
+  {
+   "id": 578,
+   "line": 3,
+   "a": 32,
+   "b": 116,
+   "flip": false
+  },
+  {
+   "id": 579,
+   "line": 3,
+   "a": 116,
+   "b": 117,
+   "flip": false
+  },
+  {
+   "id": 580,
+   "line": 3,
+   "a": 117,
+   "b": 118,
+   "flip": false
+  },
+  {
+   "id": 581,
+   "line": 3,
+   "a": 118,
+   "b": 119,
+   "flip": false
+  },
+  {
+   "id": 582,
+   "line": 3,
+   "a": 119,
+   "b": 120,
+   "flip": false
+  },
+  {
+   "id": 583,
+   "line": 3,
+   "a": 120,
+   "b": 121,
+   "flip": false
+  },
+  {
+   "id": 584,
+   "line": 3,
+   "a": 121,
+   "b": 122,
+   "flip": false
+  },
+  {
+   "id": 585,
+   "line": 3,
+   "a": 122,
+   "b": 123,
+   "flip": false
+  },
+  {
+   "id": 586,
+   "line": 4,
+   "a": 46,
+   "b": 124,
+   "flip": false
+  },
+  {
+   "id": 587,
+   "line": 4,
+   "a": 124,
+   "b": 125,
+   "flip": false
+  },
+  {
+   "id": 588,
+   "line": 4,
+   "a": 125,
+   "b": 126,
+   "flip": false
+  },
+  {
+   "id": 589,
+   "line": 4,
+   "a": 126,
+   "b": 127,
+   "flip": false
+  },
+  {
+   "id": 590,
+   "line": 4,
+   "a": 127,
+   "b": 128,
+   "flip": false
+  },
+  {
+   "id": 591,
+   "line": 4,
+   "a": 128,
+   "b": 129,
+   "flip": false
+  },
+  {
+   "id": 592,
+   "line": 4,
+   "a": 129,
+   "b": 123,
+   "flip": false
+  },
+  {
+   "id": 593,
+   "line": 4,
+   "a": 123,
+   "b": 130,
+   "flip": false
+  },
+  {
+   "id": 594,
+   "line": 4,
+   "a": 130,
+   "b": 131,
+   "flip": false
+  },
+  {
+   "id": 595,
+   "line": 4,
+   "a": 131,
+   "b": 132,
+   "flip": false
+  },
+  {
+   "id": 596,
+   "line": 4,
+   "a": 132,
+   "b": 97,
+   "flip": false
+  },
+  {
+   "id": 597,
+   "line": 4,
+   "a": 97,
+   "b": 98,
+   "flip": false
+  },
+  {
+   "id": 598,
+   "line": 4,
+   "a": 98,
+   "b": 99,
+   "flip": false
+  },
+  {
+   "id": 599,
+   "line": 4,
+   "a": 99,
+   "b": 100,
+   "flip": false
+  },
+  {
+   "id": 600,
+   "line": 4,
+   "a": 100,
+   "b": 101,
+   "flip": false
+  },
+  {
+   "id": 601,
+   "line": 4,
+   "a": 101,
+   "b": 102,
+   "flip": false
+  },
+  {
+   "id": 602,
+   "line": 4,
+   "a": 102,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 603,
+   "line": 4,
+   "a": 24,
+   "b": 103,
+   "flip": false
+  },
+  {
+   "id": 604,
+   "line": 4,
+   "a": 103,
+   "b": 104,
+   "flip": false
+  },
+  {
+   "id": 605,
+   "line": 4,
+   "a": 104,
+   "b": 105,
+   "flip": false
+  },
+  {
+   "id": 606,
+   "line": 4,
+   "a": 105,
+   "b": 106,
+   "flip": false
+  },
+  {
+   "id": 607,
+   "line": 4,
+   "a": 106,
+   "b": 107,
+   "flip": false
+  },
+  {
+   "id": 608,
+   "line": 4,
+   "a": 107,
+   "b": 108,
+   "flip": false
+  },
+  {
+   "id": 609,
+   "line": 4,
+   "a": 108,
+   "b": 133,
+   "flip": false
+  },
+  {
+   "id": 610,
+   "line": 4,
+   "a": 133,
+   "b": 134,
+   "flip": false
+  },
+  {
+   "id": 611,
+   "line": 4,
+   "a": 134,
+   "b": 135,
+   "flip": false
+  },
+  {
+   "id": 612,
+   "line": 4,
+   "a": 135,
+   "b": 65,
+   "flip": false
+  },
+  {
+   "id": 613,
+   "line": 4,
+   "a": 65,
+   "b": 136,
+   "flip": false
+  },
+  {
+   "id": 614,
+   "line": 4,
+   "a": 136,
+   "b": 137,
+   "flip": false
+  },
+  {
+   "id": 615,
+   "line": 4,
+   "a": 137,
+   "b": 138,
+   "flip": false
+  },
+  {
+   "id": 616,
+   "line": 4,
+   "a": 138,
+   "b": 139,
+   "flip": false
+  },
+  {
+   "id": 617,
+   "line": 4,
+   "a": 139,
+   "b": 140,
+   "flip": false
+  },
+  {
+   "id": 618,
+   "line": 4,
+   "a": 140,
+   "b": 141,
+   "flip": false
+  },
+  {
+   "id": 619,
+   "line": 4,
+   "a": 141,
+   "b": 142,
+   "flip": false
+  },
+  {
+   "id": 620,
+   "line": 4,
+   "a": 142,
+   "b": 143,
+   "flip": false
+  },
+  {
+   "id": 621,
+   "line": 4,
+   "a": 143,
+   "b": 144,
+   "flip": false
+  },
+  {
+   "id": 622,
+   "line": 4,
+   "a": 144,
+   "b": 145,
+   "flip": false
+  },
+  {
+   "id": 623,
+   "line": 4,
+   "a": 145,
+   "b": 146,
+   "flip": false
+  },
+  {
+   "id": 624,
+   "line": 4,
+   "a": 146,
+   "b": 147,
+   "flip": false
+  },
+  {
+   "id": 625,
+   "line": 4,
+   "a": 147,
+   "b": 148,
+   "flip": false
+  },
+  {
+   "id": 626,
+   "line": 4,
+   "a": 148,
+   "b": 149,
+   "flip": false
+  },
+  {
+   "id": 627,
+   "line": 4,
+   "a": 149,
+   "b": 150,
+   "flip": false
+  },
+  {
+   "id": 628,
+   "line": 4,
+   "a": 132,
+   "b": 96,
+   "flip": false
+  },
+  {
+   "id": 629,
+   "line": 4,
+   "a": 96,
+   "b": 53,
+   "flip": false
+  },
+  {
+   "id": 630,
+   "line": 4,
+   "a": 53,
+   "b": 95,
+   "flip": false
+  },
+  {
+   "id": 631,
+   "line": 4,
+   "a": 95,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 632,
+   "line": 4,
+   "a": 32,
+   "b": 94,
+   "flip": false
+  },
+  {
+   "id": 633,
+   "line": 4,
+   "a": 132,
+   "b": 151,
+   "flip": false
+  },
+  {
+   "id": 634,
+   "line": 4,
+   "a": 132,
+   "b": 152,
+   "flip": false
+  },
+  {
+   "id": 635,
+   "line": 4,
+   "a": 152,
+   "b": 153,
+   "flip": false
+  },
+  {
+   "id": 636,
+   "line": 4,
+   "a": 153,
+   "b": 154,
+   "flip": false
+  },
+  {
+   "id": 637,
+   "line": 4,
+   "a": 154,
+   "b": 155,
+   "flip": false
+  },
+  {
+   "id": 638,
+   "line": 4,
+   "a": 155,
+   "b": 156,
+   "flip": false
+  },
+  {
+   "id": 639,
+   "line": 4,
+   "a": 156,
+   "b": 157,
+   "flip": false
+  },
+  {
+   "id": 640,
+   "line": 4,
+   "a": 157,
+   "b": 158,
+   "flip": false
+  },
+  {
+   "id": 641,
+   "line": 4,
+   "a": 158,
+   "b": 159,
+   "flip": false
+  },
+  {
+   "id": 642,
+   "line": 4,
+   "a": 127,
+   "b": 160,
+   "flip": false
+  },
+  {
+   "id": 643,
+   "line": 4,
+   "a": 160,
+   "b": 161,
+   "flip": false
+  },
+  {
+   "id": 644,
+   "line": 4,
+   "a": 161,
+   "b": 162,
+   "flip": false
+  },
+  {
+   "id": 645,
+   "line": 5,
+   "a": 142,
+   "b": 141,
+   "flip": false
+  },
+  {
+   "id": 646,
+   "line": 5,
+   "a": 141,
+   "b": 140,
+   "flip": false
+  },
+  {
+   "id": 647,
+   "line": 5,
+   "a": 140,
+   "b": 139,
+   "flip": false
+  },
+  {
+   "id": 648,
+   "line": 5,
+   "a": 139,
+   "b": 138,
+   "flip": false
+  },
+  {
+   "id": 649,
+   "line": 5,
+   "a": 138,
+   "b": 137,
+   "flip": false
+  },
+  {
+   "id": 650,
+   "line": 5,
+   "a": 137,
+   "b": 136,
+   "flip": false
+  },
+  {
+   "id": 651,
+   "line": 5,
+   "a": 136,
+   "b": 65,
+   "flip": false
+  },
+  {
+   "id": 652,
+   "line": 5,
+   "a": 65,
+   "b": 135,
+   "flip": false
+  },
+  {
+   "id": 653,
+   "line": 5,
+   "a": 135,
+   "b": 134,
+   "flip": false
+  },
+  {
+   "id": 654,
+   "line": 5,
+   "a": 134,
+   "b": 133,
+   "flip": false
+  },
+  {
+   "id": 655,
+   "line": 5,
+   "a": 133,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 656,
+   "line": 5,
+   "a": 63,
+   "b": 110,
+   "flip": false
+  },
+  {
+   "id": 657,
+   "line": 5,
+   "a": 110,
+   "b": 111,
+   "flip": false
+  },
+  {
+   "id": 658,
+   "line": 5,
+   "a": 111,
+   "b": 112,
+   "flip": false
+  },
+  {
+   "id": 659,
+   "line": 5,
+   "a": 112,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 660,
+   "line": 5,
+   "a": 113,
+   "b": 114,
+   "flip": false
+  },
+  {
+   "id": 661,
+   "line": 5,
+   "a": 114,
+   "b": 115,
+   "flip": false
+  },
+  {
+   "id": 662,
+   "line": 5,
+   "a": 115,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 663,
+   "line": 5,
+   "a": 29,
+   "b": 94,
+   "flip": false
+  },
+  {
+   "id": 664,
+   "line": 5,
+   "a": 94,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 665,
+   "line": 5,
+   "a": 32,
+   "b": 116,
+   "flip": false
+  },
+  {
+   "id": 666,
+   "line": 5,
+   "a": 116,
+   "b": 117,
+   "flip": false
+  },
+  {
+   "id": 667,
+   "line": 5,
+   "a": 117,
+   "b": 118,
+   "flip": false
+  },
+  {
+   "id": 668,
+   "line": 5,
+   "a": 118,
+   "b": 119,
+   "flip": false
+  },
+  {
+   "id": 669,
+   "line": 5,
+   "a": 119,
+   "b": 120,
+   "flip": false
+  },
+  {
+   "id": 670,
+   "line": 5,
+   "a": 120,
+   "b": 121,
+   "flip": false
+  },
+  {
+   "id": 671,
+   "line": 5,
+   "a": 121,
+   "b": 122,
+   "flip": false
+  },
+  {
+   "id": 672,
+   "line": 5,
+   "a": 122,
+   "b": 123,
+   "flip": false
+  },
+  {
+   "id": 673,
+   "line": 6,
+   "a": 163,
+   "b": 164,
+   "flip": false
+  },
+  {
+   "id": 674,
+   "line": 6,
+   "a": 164,
+   "b": 165,
+   "flip": false
+  },
+  {
+   "id": 675,
+   "line": 6,
+   "a": 165,
+   "b": 166,
+   "flip": false
+  },
+  {
+   "id": 676,
+   "line": 6,
+   "a": 166,
+   "b": 167,
+   "flip": false
+  },
+  {
+   "id": 677,
+   "line": 6,
+   "a": 167,
+   "b": 168,
+   "flip": false
+  },
+  {
+   "id": 678,
+   "line": 6,
+   "a": 168,
+   "b": 169,
+   "flip": false
+  },
+  {
+   "id": 679,
+   "line": 6,
+   "a": 169,
+   "b": 170,
+   "flip": false
+  },
+  {
+   "id": 680,
+   "line": 6,
+   "a": 170,
+   "b": 171,
+   "flip": false
+  },
+  {
+   "id": 681,
+   "line": 6,
+   "a": 171,
+   "b": 172,
+   "flip": false
+  },
+  {
+   "id": 682,
+   "line": 6,
+   "a": 172,
+   "b": 173,
+   "flip": false
+  },
+  {
+   "id": 683,
+   "line": 6,
+   "a": 173,
+   "b": 174,
+   "flip": false
+  },
+  {
+   "id": 684,
+   "line": 6,
+   "a": 174,
+   "b": 175,
+   "flip": false
+  },
+  {
+   "id": 685,
+   "line": 6,
+   "a": 175,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 686,
+   "line": 6,
+   "a": 29,
+   "b": 57,
+   "flip": false
+  },
+  {
+   "id": 687,
+   "line": 6,
+   "a": 57,
+   "b": 176,
+   "flip": false
+  },
+  {
+   "id": 688,
+   "line": 6,
+   "a": 176,
+   "b": 102,
+   "flip": false
+  },
+  {
+   "id": 689,
+   "line": 6,
+   "a": 102,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 690,
+   "line": 6,
+   "a": 23,
+   "b": 177,
+   "flip": false
+  },
+  {
+   "id": 691,
+   "line": 6,
+   "a": 177,
+   "b": 178,
+   "flip": false
+  },
+  {
+   "id": 692,
+   "line": 6,
+   "a": 178,
+   "b": 179,
+   "flip": false
+  },
+  {
+   "id": 693,
+   "line": 6,
+   "a": 179,
+   "b": 180,
+   "flip": false
+  },
+  {
+   "id": 694,
+   "line": 6,
+   "a": 180,
+   "b": 181,
+   "flip": false
+  },
+  {
+   "id": 695,
+   "line": 6,
+   "a": 181,
+   "b": 182,
+   "flip": false
+  },
+  {
+   "id": 696,
+   "line": 6,
+   "a": 182,
+   "b": 183,
+   "flip": false
+  },
+  {
+   "id": 697,
+   "line": 6,
+   "a": 183,
+   "b": 138,
+   "flip": false
+  },
+  {
+   "id": 698,
+   "line": 6,
+   "a": 138,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 699,
+   "line": 7,
+   "a": 109,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 700,
+   "line": 7,
+   "a": 63,
+   "b": 110,
+   "flip": false
+  },
+  {
+   "id": 701,
+   "line": 7,
+   "a": 110,
+   "b": 111,
+   "flip": false
+  },
+  {
+   "id": 702,
+   "line": 7,
+   "a": 111,
+   "b": 112,
+   "flip": false
+  },
+  {
+   "id": 703,
+   "line": 7,
+   "a": 112,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 704,
+   "line": 7,
+   "a": 113,
+   "b": 114,
+   "flip": false
+  },
+  {
+   "id": 705,
+   "line": 7,
+   "a": 114,
+   "b": 115,
+   "flip": false
+  },
+  {
+   "id": 706,
+   "line": 7,
+   "a": 115,
+   "b": 29,
+   "flip": false
+  },
+  {
+   "id": 707,
+   "line": 7,
+   "a": 29,
+   "b": 173,
+   "flip": false
+  },
+  {
+   "id": 708,
+   "line": 7,
+   "a": 173,
+   "b": 167,
+   "flip": false
+  },
+  {
+   "id": 709,
+   "line": 7,
+   "a": 167,
+   "b": 184,
+   "flip": false
+  },
+  {
+   "id": 710,
+   "line": 7,
+   "a": 184,
+   "b": 185,
+   "flip": false
+  },
+  {
+   "id": 711,
+   "line": 7,
+   "a": 185,
+   "b": 186,
+   "flip": false
+  },
+  {
+   "id": 712,
+   "line": 7,
+   "a": 186,
+   "b": 187,
+   "flip": false
+  },
+  {
+   "id": 713,
+   "line": 7,
+   "a": 187,
+   "b": 188,
+   "flip": false
+  },
+  {
+   "id": 714,
+   "line": 7,
+   "a": 188,
+   "b": 189,
+   "flip": false
+  },
+  {
+   "id": 715,
+   "line": 7,
+   "a": 189,
+   "b": 190,
+   "flip": false
+  },
+  {
+   "id": 716,
+   "line": 7,
+   "a": 190,
+   "b": 191,
+   "flip": false
+  },
+  {
+   "id": 717,
+   "line": 7,
+   "a": 191,
+   "b": 192,
+   "flip": false
+  },
+  {
+   "id": 718,
+   "line": 7,
+   "a": 192,
+   "b": 193,
+   "flip": false
+  },
+  {
+   "id": 719,
+   "line": 7,
+   "a": 191,
+   "b": 194,
+   "flip": false
+  },
+  {
+   "id": 720,
+   "line": 7,
+   "a": 194,
+   "b": 195,
+   "flip": false
+  },
+  {
+   "id": 721,
+   "line": 7,
+   "a": 195,
+   "b": 196,
+   "flip": false
+  },
+  {
+   "id": 722,
+   "line": 7,
+   "a": 196,
+   "b": 197,
+   "flip": false
+  },
+  {
+   "id": 723,
+   "line": 7,
+   "a": 196,
+   "b": 198,
+   "flip": false
+  },
+  {
+   "id": 724,
+   "line": 7,
+   "a": 186,
+   "b": 199,
+   "flip": false
+  },
+  {
+   "id": 725,
+   "line": 7,
+   "a": 199,
+   "b": 200,
+   "flip": false
+  },
+  {
+   "id": 726,
+   "line": 7,
+   "a": 200,
+   "b": 201,
+   "flip": false
+  },
+  {
+   "id": 727,
+   "line": 7,
+   "a": 201,
+   "b": 202,
+   "flip": false
+  },
+  {
+   "id": 728,
+   "line": 7,
+   "a": 202,
+   "b": 203,
+   "flip": false
+  },
+  {
+   "id": 729,
+   "line": 7,
+   "a": 203,
+   "b": 204,
+   "flip": false
+  },
+  {
+   "id": 730,
+   "line": 7,
+   "a": 204,
+   "b": 205,
+   "flip": false
+  },
+  {
+   "id": 731,
+   "line": 7,
+   "a": 205,
+   "b": 206,
+   "flip": false
+  },
+  {
+   "id": 732,
+   "line": 7,
+   "a": 167,
+   "b": 170,
+   "flip": false
+  },
+  {
+   "id": 733,
+   "line": 7,
+   "a": 170,
+   "b": 173,
+   "flip": false
+  },
+  {
+   "id": 734,
+   "line": 8,
+   "a": 207,
+   "b": 208,
+   "flip": false
+  },
+  {
+   "id": 735,
+   "line": 8,
+   "a": 208,
+   "b": 209,
+   "flip": false
+  },
+  {
+   "id": 736,
+   "line": 8,
+   "a": 209,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 737,
+   "line": 8,
+   "a": 23,
+   "b": 24,
+   "flip": false
+  },
+  {
+   "id": 738,
+   "line": 8,
+   "a": 24,
+   "b": 25,
+   "flip": false
+  },
+  {
+   "id": 739,
+   "line": 8,
+   "a": 25,
+   "b": 210,
+   "flip": false
+  },
+  {
+   "id": 740,
+   "line": 8,
+   "a": 210,
+   "b": 58,
+   "flip": false
+  },
+  {
+   "id": 741,
+   "line": 8,
+   "a": 58,
+   "b": 211,
+   "flip": false
+  },
+  {
+   "id": 742,
+   "line": 8,
+   "a": 211,
+   "b": 212,
+   "flip": false
+  },
+  {
+   "id": 743,
+   "line": 8,
+   "a": 212,
+   "b": 213,
+   "flip": false
+  },
+  {
+   "id": 744,
+   "line": 8,
+   "a": 213,
+   "b": 214,
+   "flip": false
+  },
+  {
+   "id": 745,
+   "line": 8,
+   "a": 214,
+   "b": 215,
+   "flip": false
+  },
+  {
+   "id": 746,
+   "line": 8,
+   "a": 215,
+   "b": 216,
+   "flip": false
+  },
+  {
+   "id": 747,
+   "line": 8,
+   "a": 216,
+   "b": 217,
+   "flip": false
+  },
+  {
+   "id": 748,
+   "line": 8,
+   "a": 217,
+   "b": 218,
+   "flip": false
+  },
+  {
+   "id": 749,
+   "line": 8,
+   "a": 218,
+   "b": 219,
+   "flip": false
+  },
+  {
+   "id": 750,
+   "line": 8,
+   "a": 219,
+   "b": 220,
+   "flip": false
+  },
+  {
+   "id": 751,
+   "line": 8,
+   "a": 220,
+   "b": 221,
+   "flip": false
+  },
+  {
+   "id": 752,
+   "line": 8,
+   "a": 221,
+   "b": 222,
+   "flip": false
+  },
+  {
+   "id": 753,
+   "line": 8,
+   "a": 222,
+   "b": 223,
+   "flip": false
+  },
+  {
+   "id": 754,
+   "line": 8,
+   "a": 223,
+   "b": 224,
+   "flip": false
+  },
+  {
+   "id": 755,
+   "line": 8,
+   "a": 215,
+   "b": 225,
+   "flip": false
+  },
+  {
+   "id": 756,
+   "line": 8,
+   "a": 225,
+   "b": 226,
+   "flip": false
+  },
+  {
+   "id": 757,
+   "line": 8,
+   "a": 226,
+   "b": 227,
+   "flip": false
+  },
+  {
+   "id": 758,
+   "line": 8,
+   "a": 227,
+   "b": 228,
+   "flip": false
+  },
+  {
+   "id": 759,
+   "line": 8,
+   "a": 228,
+   "b": 229,
+   "flip": false
+  },
+  {
+   "id": 760,
+   "line": 8,
+   "a": 229,
+   "b": 230,
+   "flip": false
+  },
+  {
+   "id": 761,
+   "line": 8,
+   "a": 230,
+   "b": 231,
+   "flip": false
+  },
+  {
+   "id": 762,
+   "line": 8,
+   "a": 231,
+   "b": 232,
+   "flip": false
+  },
+  {
+   "id": 763,
+   "line": 8,
+   "a": 232,
+   "b": 233,
+   "flip": false
+  },
+  {
+   "id": 764,
+   "line": 8,
+   "a": 233,
+   "b": 234,
+   "flip": false
+  },
+  {
+   "id": 765,
+   "line": 8,
+   "a": 215,
+   "b": 213,
+   "flip": false
+  },
+  {
+   "id": 766,
+   "line": 8,
+   "a": 213,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 767,
+   "line": 8,
+   "a": 113,
+   "b": 235,
+   "flip": false
+  },
+  {
+   "id": 768,
+   "line": 8,
+   "a": 235,
+   "b": 236,
+   "flip": false
+  },
+  {
+   "id": 769,
+   "line": 8,
+   "a": 236,
+   "b": 110,
+   "flip": false
+  },
+  {
+   "id": 770,
+   "line": 8,
+   "a": 110,
+   "b": 62,
+   "flip": false
+  },
+  {
+   "id": 771,
+   "line": 8,
+   "a": 62,
+   "b": 178,
+   "flip": false
+  },
+  {
+   "id": 772,
+   "line": 8,
+   "a": 178,
+   "b": 237,
+   "flip": false
+  },
+  {
+   "id": 773,
+   "line": 8,
+   "a": 237,
+   "b": 21,
+   "flip": false
+  },
+  {
+   "id": 774,
+   "line": 8,
+   "a": 21,
+   "b": 209,
+   "flip": false
+  },
+  {
+   "id": 775,
+   "line": 8,
+   "a": 209,
+   "b": 238,
+   "flip": false
+  },
+  {
+   "id": 776,
+   "line": 8,
+   "a": 238,
+   "b": 239,
+   "flip": false
+  },
+  {
+   "id": 777,
+   "line": 8,
+   "a": 239,
+   "b": 240,
+   "flip": false
+  },
+  {
+   "id": 778,
+   "line": 8,
+   "a": 240,
+   "b": 241,
+   "flip": false
+  },
+  {
+   "id": 779,
+   "line": 8,
+   "a": 241,
+   "b": 242,
+   "flip": false
+  },
+  {
+   "id": 780,
+   "line": 8,
+   "a": 242,
+   "b": 243,
+   "flip": false
+  },
+  {
+   "id": 781,
+   "line": 8,
+   "a": 243,
+   "b": 244,
+   "flip": false
+  },
+  {
+   "id": 782,
+   "line": 8,
+   "a": 244,
+   "b": 245,
+   "flip": false
+  },
+  {
+   "id": 783,
+   "line": 8,
+   "a": 245,
+   "b": 246,
+   "flip": false
+  },
+  {
+   "id": 784,
+   "line": 8,
+   "a": 246,
+   "b": 247,
+   "flip": false
+  },
+  {
+   "id": 785,
+   "line": 8,
+   "a": 247,
+   "b": 248,
+   "flip": false
+  },
+  {
+   "id": 786,
+   "line": 8,
+   "a": 249,
+   "b": 230,
+   "flip": false
+  },
+  {
+   "id": 787,
+   "line": 9,
+   "a": 250,
+   "b": 251,
+   "flip": false
+  },
+  {
+   "id": 788,
+   "line": 9,
+   "a": 251,
+   "b": 252,
+   "flip": false
+  },
+  {
+   "id": 789,
+   "line": 9,
+   "a": 252,
+   "b": 253,
+   "flip": false
+  },
+  {
+   "id": 790,
+   "line": 9,
+   "a": 253,
+   "b": 254,
+   "flip": false
+  },
+  {
+   "id": 791,
+   "line": 9,
+   "a": 254,
+   "b": 255,
+   "flip": false
+  },
+  {
+   "id": 792,
+   "line": 9,
+   "a": 255,
+   "b": 256,
+   "flip": false
+  },
+  {
+   "id": 793,
+   "line": 9,
+   "a": 256,
+   "b": 257,
+   "flip": false
+  },
+  {
+   "id": 794,
+   "line": 9,
+   "a": 257,
+   "b": 258,
+   "flip": false
+  },
+  {
+   "id": 795,
+   "line": 9,
+   "a": 258,
+   "b": 259,
+   "flip": false
+  },
+  {
+   "id": 796,
+   "line": 9,
+   "a": 259,
+   "b": 260,
+   "flip": false
+  },
+  {
+   "id": 797,
+   "line": 9,
+   "a": 260,
+   "b": 261,
+   "flip": false
+  },
+  {
+   "id": 798,
+   "line": 9,
+   "a": 261,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 799,
+   "line": 9,
+   "a": 113,
+   "b": 262,
+   "flip": false
+  },
+  {
+   "id": 800,
+   "line": 9,
+   "a": 262,
+   "b": 59,
+   "flip": false
+  },
+  {
+   "id": 801,
+   "line": 9,
+   "a": 59,
+   "b": 263,
+   "flip": false
+  },
+  {
+   "id": 802,
+   "line": 9,
+   "a": 263,
+   "b": 210,
+   "flip": false
+  },
+  {
+   "id": 803,
+   "line": 9,
+   "a": 210,
+   "b": 26,
+   "flip": false
+  },
+  {
+   "id": 804,
+   "line": 9,
+   "a": 26,
+   "b": 176,
+   "flip": false
+  },
+  {
+   "id": 805,
+   "line": 9,
+   "a": 176,
+   "b": 264,
+   "flip": false
+  },
+  {
+   "id": 806,
+   "line": 9,
+   "a": 264,
+   "b": 265,
+   "flip": false
+  },
+  {
+   "id": 807,
+   "line": 9,
+   "a": 265,
+   "b": 98,
+   "flip": false
+  },
+  {
+   "id": 808,
+   "line": 9,
+   "a": 98,
+   "b": 97,
+   "flip": false
+  },
+  {
+   "id": 809,
+   "line": 9,
+   "a": 97,
+   "b": 132,
+   "flip": false
+  },
+  {
+   "id": 810,
+   "line": 9,
+   "a": 132,
+   "b": 130,
+   "flip": false
+  },
+  {
+   "id": 811,
+   "line": 9,
+   "a": 130,
+   "b": 123,
+   "flip": false
+  },
+  {
+   "id": 812,
+   "line": 9,
+   "a": 123,
+   "b": 127,
+   "flip": false
+  },
+  {
+   "id": 813,
+   "line": 9,
+   "a": 127,
+   "b": 125,
+   "flip": false
+  },
+  {
+   "id": 814,
+   "line": 9,
+   "a": 125,
+   "b": 124,
+   "flip": false
+  },
+  {
+   "id": 815,
+   "line": 9,
+   "a": 124,
+   "b": 266,
+   "flip": false
+  },
+  {
+   "id": 816,
+   "line": 9,
+   "a": 266,
+   "b": 267,
+   "flip": false
+  },
+  {
+   "id": 817,
+   "line": 9,
+   "a": 267,
+   "b": 268,
+   "flip": false
+  },
+  {
+   "id": 818,
+   "line": 9,
+   "a": 268,
+   "b": 269,
+   "flip": false
+  },
+  {
+   "id": 819,
+   "line": 9,
+   "a": 269,
+   "b": 270,
+   "flip": false
+  },
+  {
+   "id": 820,
+   "line": 9,
+   "a": 270,
+   "b": 271,
+   "flip": false
+  },
+  {
+   "id": 821,
+   "line": 9,
+   "a": 271,
+   "b": 200,
+   "flip": false
+  },
+  {
+   "id": 822,
+   "line": 9,
+   "a": 200,
+   "b": 201,
+   "flip": false
+  },
+  {
+   "id": 823,
+   "line": 9,
+   "a": 201,
+   "b": 202,
+   "flip": false
+  },
+  {
+   "id": 824,
+   "line": 9,
+   "a": 202,
+   "b": 203,
+   "flip": false
+  },
+  {
+   "id": 825,
+   "line": 9,
+   "a": 203,
+   "b": 204,
+   "flip": false
+  },
+  {
+   "id": 826,
+   "line": 9,
+   "a": 204,
+   "b": 205,
+   "flip": false
+  },
+  {
+   "id": 827,
+   "line": 9,
+   "a": 205,
+   "b": 206,
+   "flip": false
+  },
+  {
+   "id": 828,
+   "line": 9,
+   "a": 125,
+   "b": 272,
+   "flip": false
+  },
+  {
+   "id": 829,
+   "line": 9,
+   "a": 272,
+   "b": 273,
+   "flip": false
+  },
+  {
+   "id": 830,
+   "line": 9,
+   "a": 273,
+   "b": 274,
+   "flip": false
+  },
+  {
+   "id": 831,
+   "line": 9,
+   "a": 274,
+   "b": 275,
+   "flip": false
+  },
+  {
+   "id": 832,
+   "line": 9,
+   "a": 275,
+   "b": 276,
+   "flip": false
+  },
+  {
+   "id": 833,
+   "line": 9,
+   "a": 276,
+   "b": 277,
+   "flip": false
+  },
+  {
+   "id": 834,
+   "line": 9,
+   "a": 277,
+   "b": 278,
+   "flip": false
+  },
+  {
+   "id": 835,
+   "line": 9,
+   "a": 278,
+   "b": 279,
+   "flip": false
+  },
+  {
+   "id": 836,
+   "line": 9,
+   "a": 279,
+   "b": 280,
+   "flip": false
+  },
+  {
+   "id": 837,
+   "line": 9,
+   "a": 279,
+   "b": 281,
+   "flip": false
+  },
+  {
+   "id": 838,
+   "line": 9,
+   "a": 281,
+   "b": 282,
+   "flip": false
+  },
+  {
+   "id": 839,
+   "line": 9,
+   "a": 280,
+   "b": 281,
+   "flip": false
+  },
+  {
+   "id": 840,
+   "line": 10,
+   "a": 283,
+   "b": 239,
+   "flip": false
+  },
+  {
+   "id": 841,
+   "line": 10,
+   "a": 239,
+   "b": 284,
+   "flip": false
+  },
+  {
+   "id": 842,
+   "line": 10,
+   "a": 284,
+   "b": 285,
+   "flip": false
+  },
+  {
+   "id": 843,
+   "line": 10,
+   "a": 285,
+   "b": 100,
+   "flip": false
+  },
+  {
+   "id": 844,
+   "line": 10,
+   "a": 100,
+   "b": 176,
+   "flip": false
+  },
+  {
+   "id": 845,
+   "line": 10,
+   "a": 176,
+   "b": 27,
+   "flip": false
+  },
+  {
+   "id": 846,
+   "line": 10,
+   "a": 27,
+   "b": 212,
+   "flip": false
+  },
+  {
+   "id": 847,
+   "line": 10,
+   "a": 212,
+   "b": 213,
+   "flip": false
+  },
+  {
+   "id": 848,
+   "line": 10,
+   "a": 213,
+   "b": 113,
+   "flip": false
+  },
+  {
+   "id": 849,
+   "line": 10,
+   "a": 113,
+   "b": 286,
+   "flip": false
+  },
+  {
+   "id": 850,
+   "line": 10,
+   "a": 286,
+   "b": 258,
+   "flip": false
+  },
+  {
+   "id": 851,
+   "line": 10,
+   "a": 258,
+   "b": 287,
+   "flip": false
+  },
+  {
+   "id": 852,
+   "line": 10,
+   "a": 287,
+   "b": 288,
+   "flip": false
+  },
+  {
+   "id": 853,
+   "line": 10,
+   "a": 288,
+   "b": 289,
+   "flip": false
+  },
+  {
+   "id": 854,
+   "line": 10,
+   "a": 289,
+   "b": 290,
+   "flip": false
+  },
+  {
+   "id": 855,
+   "line": 11,
+   "a": 62,
+   "b": 23,
+   "flip": false
+  },
+  {
+   "id": 856,
+   "line": 12,
+   "a": 291,
+   "b": 292,
+   "flip": false
+  },
+  {
+   "id": 857,
+   "line": 12,
+   "a": 292,
+   "b": 293,
+   "flip": false
+  },
+  {
+   "id": 858,
+   "line": 12,
+   "a": 293,
+   "b": 181,
+   "flip": false
+  },
+  {
+   "id": 859,
+   "line": 12,
+   "a": 181,
+   "b": 134,
+   "flip": false
+  },
+  {
+   "id": 860,
+   "line": 12,
+   "a": 134,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 861,
+   "line": 12,
+   "a": 63,
+   "b": 112,
+   "flip": false
+  },
+  {
+   "id": 862,
+   "line": 12,
+   "a": 112,
+   "b": 58,
+   "flip": false
+  },
+  {
+   "id": 863,
+   "line": 12,
+   "a": 58,
+   "b": 57,
+   "flip": false
+  },
+  {
+   "id": 864,
+   "line": 12,
+   "a": 57,
+   "b": 32,
+   "flip": false
+  },
+  {
+   "id": 865,
+   "line": 12,
+   "a": 32,
+   "b": 294,
+   "flip": false
+  },
+  {
+   "id": 866,
+   "line": 12,
+   "a": 294,
+   "b": 46,
+   "flip": false
+  },
+  {
+   "id": 867,
+   "line": 12,
+   "a": 46,
+   "b": 295,
+   "flip": false
+  },
+  {
+   "id": 868,
+   "line": 12,
+   "a": 295,
+   "b": 296,
+   "flip": false
+  },
+  {
+   "id": 869,
+   "line": 12,
+   "a": 296,
+   "b": 297,
+   "flip": false
+  },
+  {
+   "id": 870,
+   "line": 12,
+   "a": 297,
+   "b": 298,
+   "flip": false
+  },
+  {
+   "id": 871,
+   "line": 12,
+   "a": 298,
+   "b": 281,
+   "flip": false
+  },
+  {
+   "id": 872,
+   "line": 12,
+   "a": 281,
+   "b": 280,
+   "flip": false
+  },
+  {
+   "id": 873,
+   "line": 12,
+   "a": 281,
+   "b": 282,
+   "flip": false
+  },
+  {
+   "id": 874,
+   "line": 12,
+   "a": 298,
+   "b": 299,
+   "flip": false
+  },
+  {
+   "id": 875,
+   "line": 12,
+   "a": 299,
+   "b": 300,
+   "flip": false
+  },
+  {
+   "id": 876,
+   "line": 12,
+   "a": 300,
+   "b": 301,
+   "flip": false
+  },
+  {
+   "id": 877,
+   "line": 12,
+   "a": 301,
+   "b": 302,
+   "flip": false
+  },
+  {
+   "id": 878,
+   "line": 12,
+   "a": 302,
+   "b": 303,
+   "flip": false
+  },
+  {
+   "id": 879,
+   "line": 12,
+   "a": 303,
+   "b": 304,
+   "flip": false
+  },
+  {
+   "id": 880,
+   "line": 12,
+   "a": 304,
+   "b": 305,
+   "flip": false
+  },
+  {
+   "id": 881,
+   "line": 12,
+   "a": 305,
+   "b": 306,
+   "flip": false
+  },
+  {
+   "id": 882,
+   "line": 12,
+   "a": 306,
+   "b": 307,
+   "flip": false
+  },
+  {
+   "id": 883,
+   "line": 12,
+   "a": 134,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 884,
+   "line": 12,
+   "a": 66,
+   "b": 308,
+   "flip": false
+  },
+  {
+   "id": 885,
+   "line": 12,
+   "a": 308,
+   "b": 309,
+   "flip": false
+  },
+  {
+   "id": 886,
+   "line": 12,
+   "a": 309,
+   "b": 310,
+   "flip": false
+  },
+  {
+   "id": 887,
+   "line": 12,
+   "a": 310,
+   "b": 311,
+   "flip": false
+  },
+  {
+   "id": 888,
+   "line": 12,
+   "a": 311,
+   "b": 312,
+   "flip": false
+  },
+  {
+   "id": 889,
+   "line": 12,
+   "a": 312,
+   "b": 313,
+   "flip": false
+  },
+  {
+   "id": 890,
+   "line": 12,
+   "a": 313,
+   "b": 314,
+   "flip": false
+  },
+  {
+   "id": 891,
+   "line": 12,
+   "a": 314,
+   "b": 315,
+   "flip": false
+  },
+  {
+   "id": 892,
+   "line": 12,
+   "a": 315,
+   "b": 316,
+   "flip": false
+  },
+  {
+   "id": 893,
+   "line": 12,
+   "a": 316,
+   "b": 317,
+   "flip": false
+  },
+  {
+   "id": 894,
+   "line": 12,
+   "a": 317,
+   "b": 318,
+   "flip": false
+  },
+  {
+   "id": 895,
+   "line": 12,
+   "a": 318,
+   "b": 319,
+   "flip": false
+  },
+  {
+   "id": 896,
+   "line": 12,
+   "a": 63,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 897,
+   "line": 13,
+   "a": 62,
+   "b": 320,
+   "flip": false
+  },
+  {
+   "id": 898,
+   "line": 13,
+   "a": 320,
+   "b": 321,
+   "flip": false
+  },
+  {
+   "id": 899,
+   "line": 13,
+   "a": 321,
+   "b": 322,
+   "flip": false
+  },
+  {
+   "id": 900,
+   "line": 13,
+   "a": 322,
+   "b": 181,
+   "flip": false
+  },
+  {
+   "id": 901,
+   "line": 13,
+   "a": 181,
+   "b": 323,
+   "flip": false
+  },
+  {
+   "id": 902,
+   "line": 13,
+   "a": 323,
+   "b": 324,
+   "flip": false
+  },
+  {
+   "id": 903,
+   "line": 13,
+   "a": 324,
+   "b": 325,
+   "flip": false
+  },
+  {
+   "id": 904,
+   "line": 13,
+   "a": 325,
+   "b": 326,
+   "flip": false
+  },
+  {
+   "id": 905,
+   "line": 13,
+   "a": 326,
+   "b": 327,
+   "flip": false
+  },
+  {
+   "id": 906,
+   "line": 13,
+   "a": 327,
+   "b": 328,
+   "flip": false
+  },
+  {
+   "id": 907,
+   "line": 13,
+   "a": 328,
+   "b": 329,
+   "flip": false
+  },
+  {
+   "id": 908,
+   "line": 13,
+   "a": 329,
+   "b": 330,
+   "flip": false
+  },
+  {
+   "id": 909,
+   "line": 13,
+   "a": 330,
+   "b": 331,
+   "flip": false
+  },
+  {
+   "id": 910,
+   "line": 13,
+   "a": 331,
+   "b": 332,
+   "flip": false
+  },
+  {
+   "id": 911,
+   "line": 13,
+   "a": 322,
+   "b": 333,
+   "flip": false
+  },
+  {
+   "id": 912,
+   "line": 13,
+   "a": 333,
+   "b": 334,
+   "flip": false
+  },
+  {
+   "id": 913,
+   "line": 13,
+   "a": 334,
+   "b": 335,
+   "flip": false
+  },
+  {
+   "id": 914,
+   "line": 13,
+   "a": 335,
+   "b": 183,
+   "flip": false
+  },
+  {
+   "id": 915,
+   "line": 13,
+   "a": 183,
+   "b": 336,
+   "flip": false
+  },
+  {
+   "id": 916,
+   "line": 13,
+   "a": 336,
+   "b": 337,
+   "flip": false
+  },
+  {
+   "id": 917,
+   "line": 13,
+   "a": 337,
+   "b": 338,
+   "flip": false
+  },
+  {
+   "id": 918,
+   "line": 13,
+   "a": 338,
+   "b": 339,
+   "flip": false
+  },
+  {
+   "id": 919,
+   "line": 13,
+   "a": 339,
+   "b": 340,
+   "flip": false
+  },
+  {
+   "id": 920,
+   "line": 13,
+   "a": 341,
+   "b": 342,
+   "flip": false
+  },
+  {
+   "id": 921,
+   "line": 13,
+   "a": 342,
+   "b": 343,
+   "flip": false
+  },
+  {
+   "id": 922,
+   "line": 13,
+   "a": 343,
+   "b": 344,
+   "flip": false
+  },
+  {
+   "id": 923,
+   "line": 13,
+   "a": 344,
+   "b": 345,
+   "flip": false
+  },
+  {
+   "id": 924,
+   "line": 13,
+   "a": 345,
+   "b": 346,
+   "flip": false
+  },
+  {
+   "id": 925,
+   "line": 13,
+   "a": 346,
+   "b": 293,
+   "flip": false
+  },
+  {
+   "id": 926,
+   "line": 13,
+   "a": 293,
+   "b": 347,
+   "flip": false
+  },
+  {
+   "id": 927,
+   "line": 13,
+   "a": 347,
+   "b": 183,
+   "flip": false
+  },
+  {
+   "id": 928,
+   "line": 13,
+   "a": 320,
+   "b": 348,
+   "flip": false
+  },
+  {
+   "id": 929,
+   "line": 13,
+   "a": 181,
+   "b": 349,
+   "flip": false
+  },
+  {
+   "id": 930,
+   "line": 13,
+   "a": 349,
+   "b": 333,
+   "flip": false
+  },
+  {
+   "id": 931,
+   "line": 13,
+   "a": 333,
+   "b": 350,
+   "flip": false
+  },
+  {
+   "id": 932,
+   "line": 13,
+   "a": 350,
+   "b": 351,
+   "flip": false
+  },
+  {
+   "id": 933,
+   "line": 13,
+   "a": 351,
+   "b": 352,
+   "flip": false
+  },
+  {
+   "id": 934,
+   "line": 13,
+   "a": 352,
+   "b": 353,
+   "flip": false
+  },
+  {
+   "id": 935,
+   "line": 13,
+   "a": 353,
+   "b": 354,
+   "flip": false
+  },
+  {
+   "id": 936,
+   "line": 13,
+   "a": 354,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 937,
+   "line": 13,
+   "a": 349,
+   "b": 322,
+   "flip": false
+  },
+  {
+   "id": 938,
+   "line": 13,
+   "a": 355,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 939,
+   "line": 13,
+   "a": 66,
+   "b": 356,
+   "flip": false
+  },
+  {
+   "id": 940,
+   "line": 13,
+   "a": 356,
+   "b": 357,
+   "flip": false
+  },
+  {
+   "id": 941,
+   "line": 13,
+   "a": 357,
+   "b": 138,
+   "flip": false
+  },
+  {
+   "id": 942,
+   "line": 13,
+   "a": 138,
+   "b": 358,
+   "flip": false
+  },
+  {
+   "id": 943,
+   "line": 13,
+   "a": 358,
+   "b": 183,
+   "flip": false
+  },
+  {
+   "id": 944,
+   "line": 14,
+   "a": 315,
+   "b": 359,
+   "flip": false
+  },
+  {
+   "id": 945,
+   "line": 14,
+   "a": 359,
+   "b": 150,
+   "flip": false
+  },
+  {
+   "id": 946,
+   "line": 15,
+   "a": 213,
+   "b": 360,
+   "flip": false
+  },
+  {
+   "id": 947,
+   "line": 15,
+   "a": 360,
+   "b": 361,
+   "flip": false
+  },
+  {
+   "id": 948,
+   "line": 15,
+   "a": 361,
+   "b": 36,
+   "flip": false
+  },
+  {
+   "id": 949,
+   "line": 15,
+   "a": 36,
+   "b": 37,
+   "flip": false
+  },
+  {
+   "id": 950,
+   "line": 15,
+   "a": 37,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 951,
+   "line": 15,
+   "a": 38,
+   "b": 39,
+   "flip": false
+  },
+  {
+   "id": 952,
+   "line": 15,
+   "a": 39,
+   "b": 40,
+   "flip": false
+  },
+  {
+   "id": 953,
+   "line": 15,
+   "a": 40,
+   "b": 41,
+   "flip": false
+  },
+  {
+   "id": 954,
+   "line": 15,
+   "a": 41,
+   "b": 42,
+   "flip": false
+  },
+  {
+   "id": 955,
+   "line": 15,
+   "a": 42,
+   "b": 43,
+   "flip": false
+  },
+  {
+   "id": 956,
+   "line": 15,
+   "a": 43,
+   "b": 44,
+   "flip": false
+  },
+  {
+   "id": 957,
+   "line": 15,
+   "a": 44,
+   "b": 45,
+   "flip": false
+  },
+  {
+   "id": 958,
+   "line": 15,
+   "a": 45,
+   "b": 362,
+   "flip": false
+  },
+  {
+   "id": 959,
+   "line": 15,
+   "a": 362,
+   "b": 363,
+   "flip": false
+  },
+  {
+   "id": 960,
+   "line": 15,
+   "a": 363,
+   "b": 364,
+   "flip": false
+  },
+  {
+   "id": 961,
+   "line": 15,
+   "a": 364,
+   "b": 365,
+   "flip": false
+  },
+  {
+   "id": 962,
+   "line": 15,
+   "a": 365,
+   "b": 366,
+   "flip": false
+  },
+  {
+   "id": 963,
+   "line": 15,
+   "a": 366,
+   "b": 367,
+   "flip": false
+  },
+  {
+   "id": 964,
+   "line": 16,
+   "a": 368,
+   "b": 369,
+   "flip": false
+  },
+  {
+   "id": 965,
+   "line": 16,
+   "a": 369,
+   "b": 152,
+   "flip": false
+  },
+  {
+   "id": 966,
+   "line": 16,
+   "a": 152,
+   "b": 151,
+   "flip": false
+  },
+  {
+   "id": 967,
+   "line": 16,
+   "a": 151,
+   "b": 51,
+   "flip": false
+  },
+  {
+   "id": 968,
+   "line": 16,
+   "a": 51,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 969,
+   "line": 16,
+   "a": 38,
+   "b": 370,
+   "flip": false
+  },
+  {
+   "id": 970,
+   "line": 16,
+   "a": 370,
+   "b": 371,
+   "flip": false
+  },
+  {
+   "id": 971,
+   "line": 16,
+   "a": 371,
+   "b": 372,
+   "flip": false
+  },
+  {
+   "id": 972,
+   "line": 16,
+   "a": 372,
+   "b": 172,
+   "flip": false
+  },
+  {
+   "id": 973,
+   "line": 16,
+   "a": 172,
+   "b": 373,
+   "flip": false
+  },
+  {
+   "id": 974,
+   "line": 16,
+   "a": 373,
+   "b": 374,
+   "flip": false
+  },
+  {
+   "id": 975,
+   "line": 16,
+   "a": 374,
+   "b": 375,
+   "flip": false
+  },
+  {
+   "id": 976,
+   "line": 16,
+   "a": 375,
+   "b": 376,
+   "flip": false
+  },
+  {
+   "id": 977,
+   "line": 16,
+   "a": 376,
+   "b": 377,
+   "flip": false
+  },
+  {
+   "id": 978,
+   "line": 16,
+   "a": 377,
+   "b": 378,
+   "flip": false
+  },
+  {
+   "id": 979,
+   "line": 16,
+   "a": 378,
+   "b": 286,
+   "flip": false
+  },
+  {
+   "id": 980,
+   "line": 16,
+   "a": 286,
+   "b": 379,
+   "flip": false
+  },
+  {
+   "id": 981,
+   "line": 16,
+   "a": 379,
+   "b": 380,
+   "flip": false
+  },
+  {
+   "id": 982,
+   "line": 16,
+   "a": 380,
+   "b": 381,
+   "flip": false
+  },
+  {
+   "id": 983,
+   "line": 16,
+   "a": 381,
+   "b": 382,
+   "flip": false
+  },
+  {
+   "id": 984,
+   "line": 16,
+   "a": 382,
+   "b": 383,
+   "flip": false
+  },
+  {
+   "id": 985,
+   "line": 16,
+   "a": 383,
+   "b": 66,
+   "flip": false
+  },
+  {
+   "id": 986,
+   "line": 16,
+   "a": 162,
+   "b": 161,
+   "flip": false
+  },
+  {
+   "id": 987,
+   "line": 16,
+   "a": 161,
+   "b": 160,
+   "flip": false
+  },
+  {
+   "id": 988,
+   "line": 16,
+   "a": 160,
+   "b": 384,
+   "flip": false
+  },
+  {
+   "id": 989,
+   "line": 16,
+   "a": 384,
+   "b": 385,
+   "flip": false
+  },
+  {
+   "id": 990,
+   "line": 16,
+   "a": 385,
+   "b": 38,
+   "flip": false
+  },
+  {
+   "id": 991,
+   "line": 17,
+   "a": 386,
+   "b": 142,
+   "flip": false
+  },
+  {
+   "id": 992,
+   "line": 17,
+   "a": 142,
+   "b": 387,
+   "flip": false
+  },
+  {
+   "id": 993,
+   "line": 17,
+   "a": 387,
+   "b": 388,
+   "flip": false
+  },
+  {
+   "id": 994,
+   "line": 17,
+   "a": 388,
+   "b": 389,
+   "flip": false
+  },
+  {
+   "id": 995,
+   "line": 17,
+   "a": 389,
+   "b": 390,
+   "flip": false
+  },
+  {
+   "id": 996,
+   "line": 17,
+   "a": 390,
+   "b": 391,
+   "flip": false
+  },
+  {
+   "id": 997,
+   "line": 17,
+   "a": 391,
+   "b": 289,
+   "flip": false
+  },
+  {
+   "id": 998,
+   "line": 17,
+   "a": 289,
+   "b": 392,
+   "flip": false
+  },
+  {
+   "id": 999,
+   "line": 17,
+   "a": 392,
+   "b": 393,
+   "flip": false
+  },
+  {
+   "id": 1000,
+   "line": 17,
+   "a": 393,
+   "b": 394,
+   "flip": false
+  },
+  {
+   "id": 1001,
+   "line": 17,
+   "a": 394,
+   "b": 395,
+   "flip": false
+  },
+  {
+   "id": 1002,
+   "line": 17,
+   "a": 395,
+   "b": 375,
+   "flip": false
+  },
+  {
+   "id": 1003,
+   "line": 18,
+   "a": 396,
+   "b": 397,
+   "flip": false
+  },
+  {
+   "id": 1004,
+   "line": 18,
+   "a": 397,
+   "b": 398,
+   "flip": false
+  },
+  {
+   "id": 1005,
+   "line": 18,
+   "a": 398,
+   "b": 399,
+   "flip": false
+  },
+  {
+   "id": 1006,
+   "line": 18,
+   "a": 399,
+   "b": 400,
+   "flip": false
+  },
+  {
+   "id": 1007,
+   "line": 18,
+   "a": 400,
+   "b": 401,
+   "flip": false
+  },
+  {
+   "id": 1008,
+   "line": 18,
+   "a": 401,
+   "b": 402,
+   "flip": false
+  },
+  {
+   "id": 1009,
+   "line": 18,
+   "a": 402,
+   "b": 403,
+   "flip": false
+  },
+  {
+   "id": 1010,
+   "line": 18,
+   "a": 403,
+   "b": 287,
+   "flip": false
+  },
+  {
+   "id": 1011,
+   "line": 18,
+   "a": 287,
+   "b": 404,
+   "flip": false
+  },
+  {
+   "id": 1012,
+   "line": 18,
+   "a": 404,
+   "b": 405,
+   "flip": false
+  },
+  {
+   "id": 1013,
+   "line": 18,
+   "a": 405,
+   "b": 406,
+   "flip": false
+  },
+  {
+   "id": 1014,
+   "line": 18,
+   "a": 406,
+   "b": 407,
+   "flip": false
+  },
+  {
+   "id": 1015,
+   "line": 18,
+   "a": 407,
+   "b": 408,
+   "flip": false
+  },
+  {
+   "id": 1016,
+   "line": 18,
+   "a": 408,
+   "b": 409,
+   "flip": false
+  },
+  {
+   "id": 1017,
+   "line": 18,
+   "a": 409,
+   "b": 410,
+   "flip": false
+  },
+  {
+   "id": 1018,
+   "line": 18,
+   "a": 410,
+   "b": 63,
+   "flip": false
+  },
+  {
+   "id": 1019,
+   "line": 18,
+   "a": 411,
+   "b": 412,
+   "flip": false
+  },
+  {
+   "id": 1020,
+   "line": 18,
+   "a": 412,
+   "b": 413,
+   "flip": false
+  },
+  {
+   "id": 1021,
+   "line": 18,
+   "a": 413,
+   "b": 290,
+   "flip": false
+  },
+  {
+   "id": 1022,
+   "line": 18,
+   "a": 290,
+   "b": 414,
+   "flip": false
+  },
+  {
+   "id": 1023,
+   "line": 18,
+   "a": 414,
+   "b": 415,
+   "flip": false
+  },
+  {
+   "id": 1024,
+   "line": 18,
+   "a": 415,
+   "b": 407,
+   "flip": false
+  },
+  {
+   "id": 1025,
+   "line": 18,
+   "a": 416,
+   "b": 417,
+   "flip": false
+  },
+  {
+   "id": 1026,
+   "line": 18,
+   "a": 417,
+   "b": 400,
+   "flip": false
+  },
+  {
+   "id": 1027,
+   "line": 19,
+   "a": 368,
+   "b": 418,
+   "flip": false
+  },
+  {
+   "id": 1028,
+   "line": 19,
+   "a": 418,
+   "b": 419,
+   "flip": false
+  },
+  {
+   "id": 1029,
+   "line": 19,
+   "a": 419,
+   "b": 420,
+   "flip": false
+  },
+  {
+   "id": 1030,
+   "line": 19,
+   "a": 420,
+   "b": 421,
+   "flip": false
+  },
+  {
+   "id": 1031,
+   "line": 19,
+   "a": 421,
+   "b": 422,
+   "flip": false
+  },
+  {
+   "id": 1032,
+   "line": 19,
+   "a": 422,
+   "b": 423,
+   "flip": false
+  },
+  {
+   "id": 1033,
+   "line": 19,
+   "a": 423,
+   "b": 180,
+   "flip": false
+  },
+  {
+   "id": 1034,
+   "line": 19,
+   "a": 180,
+   "b": 424,
+   "flip": false
+  },
+  {
+   "id": 1035,
+   "line": 19,
+   "a": 424,
+   "b": 425,
+   "flip": false
+  },
+  {
+   "id": 1036,
+   "line": 19,
+   "a": 425,
+   "b": 320,
+   "flip": false
+  },
+  {
+   "id": 1037,
+   "line": 19,
+   "a": 320,
+   "b": 134,
+   "flip": false
+  },
+  {
+   "id": 1038,
+   "line": 19,
+   "a": 134,
+   "b": 426,
+   "flip": false
+  },
+  {
+   "id": 1039,
+   "line": 19,
+   "a": 426,
+   "b": 427,
+   "flip": false
+  },
+  {
+   "id": 1040,
+   "line": 19,
+   "a": 427,
+   "b": 428,
+   "flip": false
+  },
+  {
+   "id": 1041,
+   "line": 19,
+   "a": 428,
+   "b": 429,
+   "flip": false
+  },
+  {
+   "id": 1042,
+   "line": 19,
+   "a": 429,
+   "b": 379,
+   "flip": false
+  },
+  {
+   "id": 1043,
+   "line": 19,
+   "a": 379,
+   "b": 286,
+   "flip": false
+  },
+  {
+   "id": 1044,
+   "line": 19,
+   "a": 430,
+   "b": 431,
+   "flip": false
+  },
+  {
+   "id": 1045,
+   "line": 19,
+   "a": 431,
+   "b": 432,
+   "flip": false
+  },
+  {
+   "id": 1046,
+   "line": 19,
+   "a": 432,
+   "b": 433,
+   "flip": false
+  },
+  {
+   "id": 1047,
+   "line": 19,
+   "a": 433,
+   "b": 434,
+   "flip": false
+  },
+  {
+   "id": 1048,
+   "line": 19,
+   "a": 434,
+   "b": 435,
+   "flip": false
+  },
+  {
+   "id": 1049,
+   "line": 19,
+   "a": 435,
+   "b": 423,
+   "flip": false
+  },
+  {
+   "id": 1050,
+   "line": 19,
+   "a": 423,
+   "b": 436,
+   "flip": false
+  },
+  {
+   "id": 1051,
+   "line": 19,
+   "a": 431,
+   "b": 437,
+   "flip": false
+  },
+  {
+   "id": 1052,
+   "line": 19,
+   "a": 437,
+   "b": 438,
+   "flip": false
+  },
+  {
+   "id": 1053,
+   "line": 19,
+   "a": 438,
+   "b": 439,
+   "flip": false
+  },
+  {
+   "id": 1054,
+   "line": 19,
+   "a": 439,
+   "b": 440,
+   "flip": false
+  },
+  {
+   "id": 1055,
+   "line": 20,
+   "a": 441,
+   "b": 442,
+   "flip": false
+  },
+  {
+   "id": 1056,
+   "line": 20,
+   "a": 442,
+   "b": 443,
+   "flip": false
+  },
+  {
+   "id": 1057,
+   "line": 20,
+   "a": 443,
+   "b": 444,
+   "flip": false
+  },
+  {
+   "id": 1058,
+   "line": 20,
+   "a": 444,
+   "b": 445,
+   "flip": false
+  },
+  {
+   "id": 1059,
+   "line": 20,
+   "a": 445,
+   "b": 446,
+   "flip": false
+  },
+  {
+   "id": 1060,
+   "line": 20,
+   "a": 446,
+   "b": 447,
+   "flip": false
+  },
+  {
+   "id": 1061,
+   "line": 20,
+   "a": 447,
+   "b": 448,
+   "flip": false
+  },
+  {
+   "id": 1062,
+   "line": 20,
+   "a": 448,
+   "b": 449,
+   "flip": false
+  },
+  {
+   "id": 1063,
+   "line": 20,
+   "a": 449,
+   "b": 450,
+   "flip": false
+  },
+  {
+   "id": 1064,
+   "line": 20,
+   "a": 450,
+   "b": 451,
+   "flip": false
+  },
+  {
+   "id": 1065,
+   "line": 20,
+   "a": 451,
+   "b": 452,
+   "flip": false
+  },
+  {
+   "id": 1066,
+   "line": 20,
+   "a": 452,
+   "b": 453,
+   "flip": false
+  },
+  {
+   "id": 1067,
+   "line": 20,
+   "a": 453,
+   "b": 454,
+   "flip": false
+  },
+  {
+   "id": 1068,
+   "line": 20,
+   "a": 454,
+   "b": 455,
+   "flip": false
+  },
+  {
+   "id": 1069,
+   "line": 20,
+   "a": 455,
+   "b": 456,
+   "flip": false
+  },
+  {
+   "id": 1070,
+   "line": 20,
+   "a": 456,
+   "b": 457,
+   "flip": false
+  },
+  {
+   "id": 1071,
+   "line": 20,
+   "a": 457,
+   "b": 458,
+   "flip": false
+  },
+  {
+   "id": 1072,
+   "line": 20,
+   "a": 458,
+   "b": 459,
+   "flip": false
+  },
+  {
+   "id": 1073,
+   "line": 20,
+   "a": 459,
+   "b": 460,
+   "flip": false
+  },
+  {
+   "id": 1074,
+   "line": 20,
+   "a": 460,
+   "b": 461,
+   "flip": false
+  },
+  {
+   "id": 1075,
+   "line": 20,
+   "a": 461,
+   "b": 462,
+   "flip": false
+  },
+  {
+   "id": 1076,
+   "line": 20,
+   "a": 462,
+   "b": 463,
+   "flip": false
+  },
+  {
+   "id": 1077,
+   "line": 20,
+   "a": 463,
+   "b": 464,
+   "flip": false
+  },
+  {
+   "id": 1078,
+   "line": 20,
+   "a": 464,
+   "b": 465,
+   "flip": false
+  },
+  {
+   "id": 1079,
+   "line": 20,
+   "a": 465,
+   "b": 466,
+   "flip": false
+  },
+  {
+   "id": 1080,
+   "line": 20,
+   "a": 466,
+   "b": 159,
+   "flip": false
+  },
+  {
+   "id": 1081,
+   "line": 20,
+   "a": 454,
+   "b": 467,
+   "flip": false
+  },
+  {
+   "id": 1082,
+   "line": 20,
+   "a": 467,
+   "b": 440,
+   "flip": false
+  },
+  {
+   "id": 1083,
+   "line": 20,
+   "a": 440,
+   "b": 468,
+   "flip": false
+  },
+  {
+   "id": 1084,
+   "line": 20,
+   "a": 468,
+   "b": 452,
+   "flip": false
+  },
+  {
+   "id": 1085,
+   "line": 20,
+   "a": 450,
+   "b": 469,
+   "flip": false
+  },
+  {
+   "id": 1086,
+   "line": 20,
+   "a": 469,
+   "b": 470,
+   "flip": false
+  },
+  {
+   "id": 1087,
+   "line": 20,
+   "a": 470,
+   "b": 471,
+   "flip": false
+  },
+  {
+   "id": 1088,
+   "line": 20,
+   "a": 471,
+   "b": 472,
+   "flip": false
+  },
+  {
+   "id": 1089,
+   "line": 20,
+   "a": 472,
+   "b": 473,
+   "flip": false
+  },
+  {
+   "id": 1090,
+   "line": 20,
+   "a": 473,
+   "b": 474,
+   "flip": false
+  },
+  {
+   "id": 1091,
+   "line": 20,
+   "a": 474,
+   "b": 475,
+   "flip": false
+  },
+  {
+   "id": 1092,
+   "line": 20,
+   "a": 476,
+   "b": 446,
+   "flip": false
+  },
+  {
+   "id": 1093,
+   "line": 20,
+   "a": 455,
+   "b": 477,
+   "flip": false
+  },
+  {
+   "id": 1094,
+   "line": 20,
+   "a": 477,
+   "b": 467,
+   "flip": false
+  }
+ ]
+}

@@ -20,3 +20,11 @@ A public collection of maps for [Tube Map Maker](https://github.com/rawritscloud
 - Keep a map under 2 MB. File names use letters, numbers, `-`, `_` and `.` only, and sit inside `maps/`.
 - No personal information in names or text. Anyone can read and copy what is here.
 - Maps are reviewed before they are added, and may be removed on request.
+
+## Sources and licences
+
+Maps built by the app's author from open data are listed here with where the data came from. They are **unofficial schematic drawings**, not affiliated with or endorsed by any transport operator. Station names and connections are facts; the drawings are our own. Positions are laid out from real coordinates and then snapped to a grid, so they are a starting point for editing, not an official diagram.
+
+| Map | Data | Notes |
+| --- | --- | --- |
+| London | Transport for London Unified API (`api.tfl.gov.uk`), the Underground, Elizabeth line, DLR, London Overground lines and London Trams. **Powered by TfL Open Data.** Contains OS data © Crown copyright and database rights 2016 and Geomni UK Map data © and database rights [2019]. | Line colours are TfL's published colours. Branches follow TfL's route sequences, so a few outer Elizabeth line stations (to Reading) are included. Built with `tools/fetch-tfl.js` and `tools/build-map.js` in the app repository. |
